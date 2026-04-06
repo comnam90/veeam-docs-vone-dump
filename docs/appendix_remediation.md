@@ -1,0 +1,57 @@
+---
+title: "Remediation Actions"
+product: "vone"
+doc_type: "userguide"
+source_url: "https://helpcenter.veeam.com/docs/one/userguide/appendix_remediation.html"
+last_updated: "11/13/2025"
+product_version: "13.0.1.6168"
+---
+
+# Remediation Actions
+
+
+This section lists alarms with predefined remediation actions.
+
+Remediation Actions
+
+| Alarm Name | Infrastructure | Resolve Actions | Action Type | Description |
+| [Job disabled](backup_alarms_events.md#job_disabled) | Veeam Backup & Replication | Enable backup job | Default action for warning severity | Veeam ONE runs the script that enables the disabled job. |
+| [Suspicious incremental backup size](backup_alarms_events.md#suspicious_increment_size) | Veeam Backup & Replication | Add job to SureBackup job and start verification | Extra action | Veeam ONE runs the script that starts a SureBackup job to check the restore point containing the suspicious increment. |
+| [Veeam Backup & Replication HA cluster primary node state](backup_alarms_events.md#failover_state) | Veeam Backup & Replication | Perform failover | Default action for error severity | Veeam ONE initiates failover on the high availablity cluster. |
+| [Latest snapshot age](vsphere_alarms_events.md#snapshot_age) | VMware vSphere | Delete snapshot | Default action for warning severity | Veeam ONE runs the script that deletes the latest snapshot. |
+| Delete all snapshots | Extra action | Veeam ONE runs the script that deletes all snapshots in the current snapshot branch. |
+| [Latest snapshot size](vsphere_alarms_events.md#snapshot_size) | VMware vSphere | Delete snapshot | Default action for error severity | Veeam ONE runs the script that deletes the latest snapshot. |
+| Delete all snapshots | Extra action | Veeam ONE runs the script that deletes all snapshots in the current snapshot branch. |
+| [Too many snapshots on the VM](vsphere_alarms_events.md#too_many_snapshots) | VMware vSphere | Delete snapshot | Default action for error severity | Veeam ONE runs the script that deletes the latest snapshot. |
+| Delete all snapshots | Extra action | Veeam ONE runs the script that deletes all snapshots in the current snapshot branch. |
+| [Orphaned VM backup snapshot](vsphere_alarms_events.md#orphaned_vm) | VMware vSphere | Delete orphaned snapshot | Default action for error severity | Veeam ONE runs the script that deletes the snapshot left by backup or replication job. |
+| [Potential infrastructure malware activity](vsphere_alarms_events.md#malware_activity) | VMware vSphere | Disable VM Network | Default action for error severity | Veeam ONE runs the script that disables the VM network. |
+| Switch VM Network | Additional configuration option | Veeam ONE runs the script that switches the VM network. |
+| [VM power status](vsphere_alarms_events.md) | VMware vSphere | Power on VM | Default action for error severity | Veeam ONE runs the script that powers on the VM. |
+| [VM with no backups](vsphere_alarms_events.md#vsphere_no_backup) | VMware vSphere | Add VM to backup job | Default action for warning severity | Veeam ONE runs the script that adds the VM to an existing backup job.  For this action you must specify a backup server and a job to which the VM must be added.  You can suppress this action if the VM and a target repository do not share location. To do that, select the Suppress if original VM location does not match target repository location check box. |
+| Add VM to backup job and run | Extra action | Veeam ONE runs the script that adds the VM to an existing backup job and starts that job.  For this action you must specify a backup server and a job to which the VM must be added.  You can suppress this action if the VM and a target repository do not share location. To do that, select the Suppress if original VM location does not match target repository location check box. |
+| Run parent backup job | Extra action | Veeam ONE runs the script that starts an existing backup job into which the VM is included. The latest session of the job must have the Success status. |
+| Start Quick backup | Extra action | Veeam ONE runs the script that starts a quick backup job for the VM.  For this action you must specify backup server.  For details on quick backup, see [Quick Backup](https://helpcenter.veeam.com/docs/backup/vsphere/quick_backup.html). |
+| Start VeeamZIP | Extra action | Veeam ONE runs the script that creates an independent full backup file.  For this action you must specify a backup server and a backup repository.  You can suppress this action if the VM and a target repository do not share location. To do that, select the Suppress if original VM location does not match target repository location check box.  For details on VeeamZIP, see [VeeamZIP](https://helpcenter.veeam.com/docs/backup/vsphere/veeamzip.html). |
+| [VM with no replica](vsphere_alarms_events.md#vsphere_no_replica) | VMware vSphere | Add VM to replication job | Default action for warning severity | Veeam ONE runs the script that adds the VM to an existing replication job.  For this action you must specify a backup server and a job to which the VM must be added.  You can suppress this action if the VM and a target repository do not share location. To do that, select the Suppress if original VM location does not match target repository location check box. |
+| Add VM to replication job and run | Extra action | Veeam ONE runs the script that adds the VM to an existing replication job and starts that job.  For this action you must specify a backup server and a job to which the VM must be added.  You can suppress this action if the VM and a target repository do not share location. To do that, select the Suppress if original VM location does not match target repository location check box. |
+| Run parent replication job | Extra action | Veeam ONE runs the script that starts an existing replication job into which the VM is included. The latest session of the job must have the Success status. |
+| Start Quick backup | Extra action | Veeam ONE runs the script that starts a quick backup job for the VM.  For this action you must specify backup server.  For details on quick backup, see [Quick Backup](https://helpcenter.veeam.com/docs/backup/vsphere/quick_backup.html). |
+| Start VeeamZIP | Extra action | Veeam ONE runs the script that creates an independent full backup file.  For this action you must specify a backup server and a backup repository.  You can suppress this action if the VM and a target repository do not share location. To do that, select the Suppress if original VM location does not match target repository location check box.  For details on VeeamZIP, see [VeeamZIP](https://helpcenter.veeam.com/docs/backup/vsphere/veeamzip.html). |
+| [Latest checkpoint age](hyperv_alarms_events.md#checkpoint_age) | Microsoft Hyper-V | Delete checkpoint | Default action for warning severity | Veeam ONE runs the script that deletes the latest checkpoint. |
+| Delete checkpoint subtree | Extra action | Veeam ONE runs the script that deletes all checkpoints in the current subtree. |
+| [Latest checkpoint size](hyperv_alarms_events.md#checkpoint_size) | Microsoft Hyper-V | Delete checkpoint | Default action for error severity | Veeam ONE runs the script that deletes the latest checkpoint. |
+| Delete checkpoint subtree | Extra action | Veeam ONE runs the script that deletes all checkpoints in the current subtree. |
+| [VM power status](hyperv_alarms_events.md#hyperv_vm_power) | Microsoft Hyper-V | Power on VM | Default action for error severity | Veeam ONE runs the script that powers on the VM. |
+| [VM with no backup](hyperv_alarms_events.md#hyperv_no_backup) | Microsoft Hyper-V | Add VM to backup job | Default action for warning severity | Veeam ONE runs the script that adds the VM to an existing backup job.  For this action you must specify a backup server and a job to which the VM must be added.  You can suppress this action if the VM and a target repository do not share location. To do that, select the Suppress if original VM location does not match target repository location check box. |
+| Add VM to backup job and run | Extra action | Veeam ONE runs the script that adds the VM to an existing backup job and starts that job.  For this action you must specify a backup server and a job to which the VM must be added.  You can suppress this action if the VM and a target repository do not share location. To do that, select the Suppress if original VM location does not match target repository location check box. |
+| Run parent backup job | Extra action | Veeam ONE runs the script that starts an existing backup job into which the VM is included. The latest session of the job must have the Success status. |
+| Start Quick backup | Extra action | Veeam ONE runs the script that starts a quick backup job for the VM.  For this action you must specify backup server.  For details on quick backup, see [Quick Backup](https://helpcenter.veeam.com/docs/backup/hyperv/quick_backup.html). |
+| Run VeeamZIP | Extra action | Veeam ONE runs the script that creates an independent full backup file.  For this action you must specify a backup server and a job to which the VM must be added.  You can suppress this action if the VM and a target repository do not share location. To do that, select the Suppress if original VM location does not match target repository location check box.  For details on VeeamZIP, see [VeeamZIP](https://helpcenter.veeam.com/docs/backup/hyperv/veeamzip.html). |
+| [VM with no replica](vsphere_alarms_events.md#vsphere_no_replica) | Microsoft Hyper-V | Add VM to replication job | Default action for warning severity | Veeam ONE runs the script that adds the VM to an existing replication job.  For this action you must specify a backup server and a job to which the VM must be added.  You can suppress this action if the VM and a target repository do not share location. To do that, select the Suppress if original VM location does not match target repository location check box. |
+| Add VM to replication job and run | Extra action | Veeam ONE runs the script that adds the VM to a existing replication job and starts that job.  For this action you must specify a backup server and a job to which the VM must be added.  You can suppress this action if the VM and a target repository do not share location. To do that, select the Suppress if original VM location does not match target repository location check box. |
+| Run parent replication job | Extra action | Veeam ONE runs the script that starts an existing replication job into which the VM is included. The latest session of the job must have the Success status. |
+| Start Quick backup | Extra action | Veeam ONE runs the script that starts a quick backup job for the VM.  For this action you must specify backup server.  For details on quick backup, see [Quick Backup](https://helpcenter.veeam.com/docs/backup/hyperv/quick_backup.html). |
+| Run VeeamZIP | Extra action | Veeam ONE runs the script that creates an independent full backup file.  For this action you must specify a backup server and a job to which the VM must be added.  You can suppress this action if the VM and a target repository do not share location. To do that, select the Suppress if original VM location does not match target repository location check box.  For details on VeeamZIP, see [VeeamZIP](https://helpcenter.veeam.com/docs/backup/hyperv/veeamzip.html). |
+
+
