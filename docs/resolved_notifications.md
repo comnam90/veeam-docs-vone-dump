@@ -1,0 +1,33 @@
+---
+title: "Notifications on Resolved Alarms"
+product: "vone"
+doc_type: "userguide"
+source_url: "https://helpcenter.veeam.com/docs/one/userguide/resolved_notifications.html"
+last_updated: "2/3/2025"
+product_version: "13.0.1.6168"
+---
+
+# Notifications on Resolved Alarms
+
+
+When one or more alarms are resolved, Veeam ONE sends an email notification to users who monitor the affected object. The notification includes information about the number of alarms resolved, resolve action, time and reason, as well as the list of resolved alarms.
+
+To receive notifications about resolved alarms, make sure that:
+
+* You have configured SMTP server settings.
+
+For details, see [Step 1. Configure SMTP Server Settings](configure_smtp_server.md).
+
+* Your email address is included either in the default notification group, or in the list of notification recipients specified in the alarm action settings, and the notification level is set to Any state.
+
+For details, see [Step 4. Configure Email Recipients](configure_email_recipients.md).
+
+* Notifications about resolved and acknowledged alarms are enabled.
+
+For details, see [Step 5. Configure Notifications About Resolved and Acknowledged Alarms](disable_resolved_alarms.md).
+
+The following image shows an example of a notification about a resolved alarm.
+
+[![Notification on Resolved Alarms](images/notification_on_resolved_alarm.webp)](images/notification_on_resolved_alarm.webp "Notification on Resolved Alarms")
+
+
