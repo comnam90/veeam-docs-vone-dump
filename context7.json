@@ -1,0 +1,12 @@
+{
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "Veeam ONE Docs",
+  "description": "Unofficial documentation dump for Veeam ONE (VONE). Monitoring, reporting, and alerting for Veeam backup infrastructure.",
+  "folders": ["docs"],
+  "excludeFolders": [],
+  "excludeFiles": [],
+  "rules": [
+    "This is unofficial documentation - always verify against official Veeam Help Center",
+    "Covers Veeam ONE monitoring, alarms, reporting, and REST API integration"
+  ]
+}
