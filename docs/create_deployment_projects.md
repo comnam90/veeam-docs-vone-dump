@@ -1,0 +1,20 @@
+---
+title: "Creating Deployment Projects"
+product: "vone"
+doc_type: "userguide"
+source_url: "https://helpcenter.veeam.com/docs/one/userguide/create_deployment_projects.html"
+last_updated: "1/27/2025"
+product_version: "13.0.1.6168"
+---
+
+# Creating Deployment Projects
+
+
+To create a new deployment project, perform the following steps:
+
+1. [Launch Add Deployment Project Wizard](launch_deployment_wizard.md)
+2. [Specify Deployment Project Name and Description](specify_project_name_description.md)
+3. [Specify Deployment Infrastructure](specify_infrastructure.md)
+4. [Define Project Scenarios](define_project_scenarios.md)
+
+

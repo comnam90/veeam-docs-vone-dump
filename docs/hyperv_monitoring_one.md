@@ -1,0 +1,58 @@
+---
+title: "Hyper-V Monitoring"
+product: "vone"
+doc_type: "userguide"
+source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_monitoring_one.html"
+last_updated: "5/12/2025"
+product_version: "13.0.1.6168"
+---
+
+# Hyper-V Monitoring
+
+
+Veeam ONE offers a variety of tools for monitoring the Microsoft Hyper-V environment from any perspective and with any level of detail.
+
+With Veeam ONE Client, you can:
+
+1. Monitor health status of the virtual environment.
+
+* Start with the Summary dashboards to check the overall health status of the virtual environment and reveal hotspots.
+
+Quickly review the state of virtual infrastructure components, see the latest alarms, detect the most problematic objects and drill down to the problem source for further investigation.
+
+* Use the Virtual Machines dashboard to view the list of VMs in a virtual infrastructure container and check additional details for every VM — such as VM current status, parent host, IP address, DNS name and the amount of resources currently consumed by the VM.
+* Use the Top Objects dashboard to detect the most and less loaded components in the virtual environment.
+
+Detect what virtual infrastructure objects are consuming the most and the least amount of CPU, memory, disk, network, and swap resources, or select additional counters to detect resource consumers in other areas.
+
+1. View triggered alarms.
+
+Switch to the Alarms dashboard to see details on breached thresholds, events and problems that occurred in the virtual environment.
+
+Use the Actions pane on the alarms dashboard to detect root causes — drill down to performance charts, open VM console or view the list of in-guest processes.
+
+1. Work with performance charts and track events.
+
+Drill down to performance charts to diagnose performance problems. You can change predefined views, quickly switch between charts and view events that occur in your environment to get all-round statistics.
+
+1. Investigate problems from within the guest OS.
+
+Open VM console or view the list of running in-guest processes to diagnose problems related to a specific service, module or application.
+
+Prerequisites
+
+Before you start monitoring your virtual environment, make sure you have configured connections to virtual servers from which Veeam ONE will collect data. For details on configuring server connections, see [Connecting Microsoft Hyper-V Servers](hyperv_server_connect.md).
+
+In This Section
+
+* [Microsoft Hyper-V Summary Dashboards](hyperv_dashboards.md)
+* [Microsoft Hyper-V Alarms](hyperv_alarms.md)
+* [Microsoft Hyper-V Performance Charts](hyperv_charts.md)
+* [Microsoft Hyper-V Tasks & Events](hyperv_events.md)
+* [Microsoft Hyper-V Virtual Machines](hyperv_vms.md)
+* [Microsoft Hyper-V Top Objects](hyperv_top_load.md)
+* [Microsoft Hyper-V VM Console](hyperv_console.md)
+* [Microsoft Hyper-V In-Guest Processes](hyperv_processes.md)
+* [Microsoft Hyper-V In-Guest Services](hyperv_services.md)
+
+
