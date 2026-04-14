@@ -3,7 +3,7 @@ title: "Delegated Restore Permissions Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/delegated_restore_permissions.html"
-last_updated: "3/30/2026"
+last_updated: "4/14/2026"
 product_version: "13.0.1.6168"
 ---
 
