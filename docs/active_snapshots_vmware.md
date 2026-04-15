@@ -3,7 +3,7 @@ title: "Active Snapshots"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/active_snapshots_vmware.html"
-last_updated: "3/30/2026"
+last_updated: "4/14/2026"
 product_version: "13.0.1.6168"
 ---
 
