@@ -3,7 +3,7 @@ title: "Protected VMs"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/protected_vms.html"
-last_updated: "3/30/2026"
+last_updated: "4/14/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -29,7 +29,7 @@ The report helps you identify which VMs in your environment function without pro
 |  |
 | --- |
 | Note: |
-| * VM replicas not protected by any Veeam Backup & Replication job are not accounted in this report. |
+| * VM replicas not protected by any Veeam Backup & Replication job are not accounted in this report. * If a VM has been deleted but its restore points remain on the repository, the report will still display the VM. |
 
 Report Parameters
 
