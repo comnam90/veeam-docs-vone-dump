@@ -3,7 +3,7 @@ title: "Cloud Connect User Report (Backup)"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/cloud_user_report_backup.html"
-last_updated: "4/14/2026"
+last_updated: "4/20/2026"
 product_version: "13.0.1.6168"
 ---
 
