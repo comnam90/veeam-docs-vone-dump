@@ -3,7 +3,7 @@ title: "Powered Off VMs (Hyper-V)"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/powered_off_vms_hyperv.html"
-last_updated: "8/25/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -30,6 +30,7 @@ Business View groups from the same category are joined using Boolean OR operator
 * Time spent powered off: defines the threshold for the amount of time when a VM was powered off against the amount of time in the reporting period (in percentage). If the time during which a VM was powered off is less than the specified value in percent, the report will not analyze this VM.
 
 [![Powered Off VMs Report](images/hyperv_powered_off_vms_01.webp)](images/hyperv_powered_off_vms_01.webp "Powered Off VMs Report")
+[![Powered Off VMs Report](images/hyperv_powered_off_vms_02.webp)](images/hyperv_powered_off_vms_02.webp "Powered Off VMs Report")
 
 Use Case
 
