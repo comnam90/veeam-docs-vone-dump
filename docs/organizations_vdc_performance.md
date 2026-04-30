@@ -3,7 +3,7 @@ title: "Multiple Organizations vDC Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/organizations_vdc_performance.html"
-last_updated: "8/25/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -33,6 +33,7 @@ You can specify the following report parameters:
 * Top N: defines the maximum number of vApps and VMs to display in the report output.
 
 [![Multiple Organizations vDC Performance Report](images/multiple_organizations_vdc_performance_01.webp)](images/multiple_organizations_vdc_performance_01.webp "Multiple Organizations vDC Performance Report")
+[![Multiple Organizations vDC Performance Report](images/multiple_organizations_vdc_performance_02.webp)](images/multiple_organizations_vdc_performance_02.webp "Multiple Organizations vDC Performance Report")
 
 Use Case
 
