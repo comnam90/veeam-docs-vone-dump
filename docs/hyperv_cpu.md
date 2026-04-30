@@ -3,7 +3,7 @@ title: "CPU Performance Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_cpu.html"
-last_updated: "1/27/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -45,5 +45,6 @@ Virtual Machine
 | CPU Bottlenecks | CPU Wait Time | Microsecond | Amount of time that a virtual processor spends waiting to be dispatched onto a logical processor. |
 
 For objects that are parent to hosts and VMs, Veeam ONE Client displays rollup values.
+Charts for folders and clusters display rollup values for all hosts in the container. Chart for a resource displays rollup values for all VMs registered as shared resources.
 
 
