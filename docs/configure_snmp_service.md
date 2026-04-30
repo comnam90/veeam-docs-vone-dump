@@ -3,7 +3,7 @@ title: "Step 1. Configure SNMP Receivers and Manager"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/configure_snmp_service.html"
-last_updated: "2/3/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
