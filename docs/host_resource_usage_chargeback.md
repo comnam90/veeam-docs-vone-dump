@@ -3,7 +3,7 @@ title: "Host Resource Usage Chargeback"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/host_resource_usage_chargeback.html"
-last_updated: "8/25/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -69,6 +69,8 @@ To edit datastore costs:
 If this option is disabled, the report will not display the most expensive VMs, and will not provide VM cost in terms of utilized CPU, RAM and storage resources.
 
 [![Host Resource Usage Chargeback Report](images/hardware_performance_based_chargeback_01.webp)](images/hardware_performance_based_chargeback_01.webp "Host Resource Usage Chargeback Report")
+[![Host Resource Usage Chargeback Report](images/hardware_performance_based_chargeback_02.webp)](images/hardware_performance_based_chargeback_02.webp "Host Resource Usage Chargeback Report")
+[![Host Resource Usage Chargeback Report](images/hardware_performance_based_chargeback_03.webp)](images/hardware_performance_based_chargeback_03.webp "Host Resource Usage Chargeback Report")
 
 Use Case
 
