@@ -3,7 +3,7 @@ title: "Exported Tapes"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/tape_exportation.html"
-last_updated: "9/11/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -25,6 +25,7 @@ You can specify the following report parameters:
 * Jobs: defines a list of tape jobs to analyze in the report.
 
 [![Tape Exportation Report](images/tape_exportation_01.webp)](images/tape_exportation_01.webp "Tape Exportation Report")
+[![Tape Exportation Report](images/tape_exportation_02.webp)](images/tape_exportation_02.webp "Tape Exportation Report")
 
 Use Case
 
