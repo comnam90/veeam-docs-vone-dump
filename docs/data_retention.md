@@ -3,7 +3,7 @@ title: "Data Retention"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/data_retention.html"
-last_updated: "4/3/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -25,7 +25,7 @@ Veeam ONE uses the following aggregation scheme for performance data:
 Performance Data Aggregation
 
 | Period | Optimized for Veeam backup data and virtual infrastructure performance monitoring | Optimized for Veeam backup data and large-scale virtual infrastructure performance monitoring | Veeam Backup Data Only |
-| Hour | 20 seconds for VMware vSphere | 15 minutes | 20 seconds |
+| Hour | 20 seconds for VMware vSphere 30 seconds for Microsoft Hyper-V | 15 minutes | 20 seconds |
 | Week | 5 minutes | 30 minutes | 5 minutes |
 | Year | 2 hours | 2 hours | 2 hours |
 
