@@ -3,7 +3,7 @@ title: "vSphere Custom Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vmware_custom_performance.html"
-last_updated: "7/14/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -43,6 +43,7 @@ Business View groups from the same category are joined using Boolean OR operator
 * Show graphs: defines whether to show charts in the report output.
 
 [![vSphere Custom Performance Report](images/vmware_custom_performance_01.webp)](images/vmware_custom_performance_01.webp "vSphere Custom Performance Report")
+[![vSphere Custom Performance Report](images/vmware_custom_performance_02.webp)](images/vmware_custom_performance_02.webp "vSphere Custom Performance Report")
 
 Use Case
 
