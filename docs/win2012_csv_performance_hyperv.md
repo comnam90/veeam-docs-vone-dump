@@ -3,7 +3,7 @@ title: "Windows Cluster Shared Volume Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/win2012_csv_performance_hyperv.html"
-last_updated: "8/25/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -25,6 +25,8 @@ You can specify the following report parameters:
 * Business hours only: defines time of a day for which historical performance data will be used to calculate the performance trend. All data beyond this interval will be excluded from the baseline used for data analysis.
 
 [![Windows CSV Volume Performance Report](images/hyperv_windows_2012_csv_performance_01.webp)](images/hyperv_windows_2012_csv_performance_01.webp "Windows CSV Volume Performance Report")
+[![Windows CSV Volume Performance Report](images/hyperv_windows_2012_csv_performance_02.webp)](images/hyperv_windows_2012_csv_performance_02.webp "Windows CSV Volume Performance Report")
+[![Windows CSV Volume Performance Report](images/hyperv_windows_2012_csv_performance_03.webp)](images/hyperv_windows_2012_csv_performance_03.webp "Windows CSV Volume Performance Report")
 
 Use Case
 
