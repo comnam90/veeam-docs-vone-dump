@@ -3,7 +3,7 @@ title: "Microsoft Hyper-V Alarms"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_alarms_events.html"
-last_updated: "2/3/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -17,8 +17,8 @@ Host
 Host
 
 | Alarm Name | Event/Condition | Severity | Resolve Action | Description |
-| Bad Hyper-V username logon attempt | Based on event | Error | Manual | This event records a failed user logon attempt. The combination of username, password and permissions is the mechanism by which Hyper-V server authenticate a user for access and authorize the user to perform activities. |
-| Cluster communication session failed | Based on event | Error | Manual | Host mode failed to establish a communication session while joining the cluster. |
+| Bad Hyper-V username logon attempt | Based on event 4625 Microsoft-Windows-Security-Auditing. | Error | Manual | This event records a failed user logon attempt. The combination of username, password and permissions is the mechanism by which Hyper-V server authenticate a user for access and authorize the user to perform activities. |
+| Cluster communication session failed | Based on event 1570 Microsoft-Windows-FailoverClustering. | Error | Manual | Host mode failed to establish a communication session while joining the cluster. |
 | Cluster host node network connectivity error | Based on event 1554 Microsoft-Windows-FailoverClustering. | Error | Manual | This cluster node has no network connectivity. It cannot participate in the cluster until connectivity is restored. |
 | Cluster hosts update version mismatch | Based on event 1548 Microsoft-Windows-FailoverClustering. | Error | Manual | Host node has established a communication session with another node and detected that it is running a different but compatible version of the cluster service software. |
 | Cluster network failure | Based on event 1127 Microsoft-Windows-FailoverClustering. | Warning | Manual | Cluster network interface for cluster node has failed. |
