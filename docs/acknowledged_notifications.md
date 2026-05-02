@@ -3,7 +3,7 @@ title: "Notifications on Acknowledged Alarms"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/acknowledged_notifications.html"
-last_updated: "2/3/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
