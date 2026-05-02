@@ -3,7 +3,7 @@ title: "Datastore Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/datastore_performance_vmware.html"
-last_updated: "7/14/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -26,6 +26,7 @@ You can specify the following report parameters:
 * Business hours only: defines time of a day for which historical performance data will be used to calculate the performance trend. All data beyond this interval will be excluded from the baseline used for data analysis.
 
 [![Datastore Performance Report](images/vmware_datastore_performance_01.webp)](images/vmware_datastore_performance_01.webp "Datastore Performance Report")
+[![Datastore Performance Report](images/vmware_datastore_performance_02.webp)](images/vmware_datastore_performance_02.webp "Datastore Performance Report")
 
 Use Case
 
