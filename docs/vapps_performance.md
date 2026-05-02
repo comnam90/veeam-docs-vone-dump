@@ -3,7 +3,7 @@ title: "Multiple vApps Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vapps_performance.html"
-last_updated: "8/25/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -26,6 +26,7 @@ You can specify the following report parameters:
 * Show graphs: defines whether to include charts in the report output.
 
 [![Multiple vApps Performance Report](images/multiple_vapps_performance_01.webp)](images/multiple_vapps_performance_01.webp "Multiple vApps Performance Report")
+[![Multiple vApps Performance Report](images/multiple_vapps_performance_02.webp)](images/multiple_vapps_performance_02.webp "Multiple vApps Performance Report")
 
 Use Case
 
