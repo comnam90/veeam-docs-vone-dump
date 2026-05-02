@@ -3,7 +3,7 @@ title: "Provider VDCs Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/provider_vdc_performance.html"
-last_updated: "8/25/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -28,6 +28,7 @@ You can specify the following report parameters:
 * Top N: defines the maximum number of provider virtual datacenters to display in the report output.
 
 [![Provider vDC Performance Report](images/provider_vdc_performance.webp)](images/provider_vdc_performance.webp "Provider vDC Performance Report")
+[![Provider vDC Performance Report](images/provider_vdc_performance_2.webp)](images/provider_vdc_performance_2.webp "Provider vDC Performance Report")
 
 Use Case
 
