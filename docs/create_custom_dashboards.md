@@ -3,7 +3,7 @@ title: "Creating Custom Dashboards"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/create_custom_dashboards.html"
-last_updated: "1/27/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
