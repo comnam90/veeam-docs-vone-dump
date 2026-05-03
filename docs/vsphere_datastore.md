@@ -3,7 +3,7 @@ title: "Datastore Performance Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vsphere_datastore.html"
-last_updated: "1/27/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -58,5 +58,6 @@ Virtual Machine
 | Datastore Command Aborts | Number | Number of aborted SCSI commands. |
 
 For objects that are parent to ESXi hosts and VMs, Veeam ONE Monitor displays rollup values.
+Charts for folders, clusters, datacenters, vCenter Servers display rollup values for all hosts in the container. Chart for a resource pool displays rollup values for all VMs in the resource pool.
 
 
