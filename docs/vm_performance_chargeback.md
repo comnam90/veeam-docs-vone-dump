@@ -3,7 +3,7 @@ title: "VM Performance Chargeback"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vm_performance_chargeback.html"
-last_updated: "8/25/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -44,6 +44,8 @@ Business View groups from the same category are joined using Boolean OR operator
 * Business hours only: defines time of a day for which historical performance data must be used to calculate the VM cost. Data outside this interval will be excluded from the baseline used for data analysis.
 
 [![VM Performance Chargeback](images/vm_performance_chargeback_01.webp)](images/vm_performance_chargeback_01.webp "VM Performance Chargeback")
+[![VM Performance Chargeback](images/vm_performance_chargeback_02.webp)](images/vm_performance_chargeback_02.webp "VM Performance Chargeback")
+[![VM Performance Chargeback](images/vm_performance_chargeback_03.webp)](images/vm_performance_chargeback_03.webp "VM Performance Chargeback")
 
 Use Case
 
