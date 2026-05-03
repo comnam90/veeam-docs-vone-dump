@@ -3,7 +3,7 @@ title: "Oversized VMs (Hyper-V)"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/oversized_vms_hyperv.html"
-last_updated: "8/25/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -34,6 +34,8 @@ Business View groups from the same category are joined using Boolean OR operator
 * Top N: defines the maximum number of VMs the report will analyze.
 
 [![Oversized VMs Report](images/hyperv_oversized_vms_01.webp)](images/hyperv_oversized_vms_01.webp "Oversized VMs Report")
+[![Oversized VMs Report](images/hyperv_oversized_vms_02.webp)](images/hyperv_oversized_vms_02.webp "Oversized VMs Report")
+[![Oversized VMs Report](images/hyperv_oversized_vms_03.webp)](images/hyperv_oversized_vms_03.webp "Oversized VMs Report")
 
 Use Case
 
