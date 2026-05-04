@@ -3,7 +3,7 @@ title: "Step 3. Assign Permissions on Infrastructure Inventory Objects"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/assign_permissions.html"
-last_updated: "1/27/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -21,7 +21,7 @@ The following table shows minimal required privileges on VMware vSphere inventor
 VMware vSphere Permissions
 
 | VI Inventory Object | VMware vSphere Privilege |
-| vCenter Server (root) | Read-only |
+| vCenter Server (root) Data Center Cluster Host Resource Pool/vApp Datastore Cluster Datastore | Read-only |
 | Virtual Machine | * Read-only * Virtual machine.Interaction.Answer question1 * Virtual machine.Interaction.Console interaction1 |
 
 1 Required to access VM console in Veeam ONE Client
