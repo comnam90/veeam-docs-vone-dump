@@ -3,7 +3,7 @@ title: "Configuration Assessment"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/configuration_assessment_hyperv.html"
-last_updated: "8/25/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -63,6 +63,7 @@ Business View groups from the same category are joined using Boolean OR operator
 * Max vCPUs per physical core: defines the threshold for the maximum number of vCPU cores per a single instance of the physical CPU core.
 
 [![VM Configuration Assessment Report](images/hyperv_configuration_assessment_01.webp)](images/hyperv_configuration_assessment_01.webp "VM Configuration Assessment Report")
+[![VM Configuration Assessment Report](images/hyperv_configuration_assessment_02.webp)](images/hyperv_configuration_assessment_02.webp "VM Configuration Assessment Report")
 
 Use Case
 
