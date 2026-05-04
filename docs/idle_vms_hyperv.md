@@ -3,7 +3,7 @@ title: "Idle VMs (Hyper-V)"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/idle_vms_hyperv.html"
-last_updated: "8/25/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -42,6 +42,7 @@ Business View groups from the same category are joined using Boolean OR operator
 | Veeam ONE Web Client checks whether the CPU usage, Memory pressure, Disk usage and Network usage conditions are all true (in other words, the conditions are joined by Boolean “AND”). |
 
 [![Idle VMs Report](images/hyperv_idle_vms_01.webp)](images/hyperv_idle_vms_01.webp "Idle VMs Report")
+[![Idle VMs Report](images/hyperv_idle_vms_02.webp)](images/hyperv_idle_vms_02.webp "Idle VMs Report")
 
 Use Case
 
