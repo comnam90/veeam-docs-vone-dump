@@ -3,7 +3,7 @@ title: "Tape Vaults Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/tape_vaults_overview.html"
-last_updated: "9/12/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -24,6 +24,7 @@ You can specify the following report parameters:
 * Vaults: defines a list of vaults to include in the report.
 
 [![Tape Vaults Overview Report](images/tape_vaults_overview_01.webp)](images/tape_vaults_overview_01.webp "Tape Vaults Overview Report")
+[![Tape Vaults Overview Report](images/tape_vaults_overview_02.webp)](images/tape_vaults_overview_02.webp "Tape Vaults Overview Report")
 
 Use Case
 
