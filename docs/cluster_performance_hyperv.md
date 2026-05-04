@@ -3,7 +3,7 @@ title: "Failover Cluster Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/cluster_performance_hyperv.html"
-last_updated: "8/25/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
