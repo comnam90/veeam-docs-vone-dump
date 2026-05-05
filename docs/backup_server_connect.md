@@ -3,7 +3,7 @@ title: "Connecting Veeam Backup & Replication Servers"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_server_connect.html"
-last_updated: "10/8/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -18,7 +18,7 @@ To collect data about your backup infrastructure and data protection operations,
 |  |
 | --- |
 | Note: |
-| * Before you connect a Veeam Backup & Replication server to Veeam ONE check that product licenses are compatible. For details on license compatibility, see [Compatibility with Veeam Backup & Replication Licenses](license_types.md#compatibility). * To install the Veeam Analytics Service package on Veeam Software Appliance, you must enable remote data collection in the Host Management Interface. For more information, see section [Enabling Remote Data Collection](https://helpcenter.veeam.com/docs/vbr/userguide/hmc_configure_infrastructure.html?ver=13#enabling-remote-data-collection) of the Veeam Backup & Replication User Guide. |
+| * Before you connect a Veeam Backup & Replication server to Veeam ONE check that product licenses are compatible. For details on license compatibility, see [Compatibility with Veeam Backup & Replication Licenses](license_types.md#compatibility). * To install the Veeam Analytics Service package on Veeam Software Appliance, you must enable remote data collection in the Host Management Interface. For more information, see section [Enabling Remote Data Collection](https://helpcenter.veeam.com/docs/vbr/userguide/hmc_configure_infrastructure.html?ver=13#enabling-remote-data-collection) of the Veeam Backup & Replication User Guide. * Veeam Backup & Replication servers can optionally be added to Veeam ONE through manual installation of Veeam Analytics service. For details on manual installation of Veeam Analytics service, see [Veeam Analytics Service](veeam_analytics_service.md#manual_installagent). |
 
 To configure a connection to a Veeam Backup & Replication server, take the following steps.
 

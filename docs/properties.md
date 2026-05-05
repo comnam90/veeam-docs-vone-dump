@@ -3,7 +3,7 @@ title: "Object Properties"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/properties.html"
-last_updated: "1/27/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -30,10 +30,10 @@ Host
 | CustomProperty | Text (string) | Returns a value of a custom property assigned to a host.  Specify the name of a custom property in brackets. For example, CustomProperty("department") will return the value of the 'department' property for a host.  Note: This property is available for Microsoft Hyper-V hosts only. |
 | Tag | Text (string) | Returns a tag assigned to a host.  Specify the name of a tag category in brackets. For example, Tag("department") will return the tag of the 'department' category for a host.  Note: This property is available for VMware vSphere 5.5 or later. |
 | Name | Text (string) | Returns a host name. |
-| Memory | Numeric | Returns an amount of host physical memory, in GB. |
+| Memory | Numeric  (double precision floating-point number) | Returns an amount of host physical memory, in GB. |
 | Location | Text (string) | Returns a location assigned to a host in Veeam Backup & Replication. |
 | ProcessorCores | Numeric (integer) | Returns a number of processor cores for a host. |
-| CPUFrequency | Numeric | Returns a CPU frequency, in MHz. |
+| CPUFrequency | Numeric  (double precision floating-point number) | Returns a CPU frequency, in MHz. |
 | VMCount | Numeric (integer) | Returns a number of VMs registered on a host. |
 | Datacenter | Text (string) | Returns a name of a datacenter. |
 | HostModel | Text (string) | Returns a host model.  Note: This property is available for VMware vSphere hosts only. |

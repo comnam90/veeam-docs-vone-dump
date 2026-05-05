@@ -3,7 +3,7 @@ title: "VM Failover Plan Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vm_failover_plan_overview.html"
-last_updated: "8/25/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -27,6 +27,7 @@ You can specify the following report parameters:
 * Failover plans: defines a list of failover plans to include in the report.
 
 [![VM Failover Plan Overview Report](images/vm_failover_plan_overview_01.webp)](images/vm_failover_plan_overview_01.webp "VM Failover Plan Overview Report")
+[![VM Failover Plan Overview Report](images/vm_failover_plan_overview_02.webp)](images/vm_failover_plan_overview_02.webp "VM Failover Plan Overview Report")
 
 Use Case
 

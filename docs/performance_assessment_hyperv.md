@@ -3,7 +3,7 @@ title: "Performance Assessment"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/performance_assessment_hyperv.html"
-last_updated: "8/25/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -68,6 +68,7 @@ Business View groups from the same category are joined using Boolean OR operator
 * Areas to assess: defines a type of resources to analyze in the report (All, CPU, Memory, Disk, Network).
 
 [![Click the image to zoom in](images/hyperv_performance_assessment_01.webp)](images/hyperv_performance_assessment_01.webp "Click the image to zoom in")
+[![Click the image to zoom in](images/hyperv_performance_assessment_02.webp)](images/hyperv_performance_assessment_02.webp "Click the image to zoom in")
 
 Use Case
 

@@ -3,7 +3,7 @@ title: "Hyper-V Raw Performance Data"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_raw_performance_data.html"
-last_updated: "7/14/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -37,6 +37,7 @@ Business View groups from the same category are joined using Boolean OR operator
 | The Inclusion rule/Exclusion rule parameters support wildcards. Search is not case sensitive.  To illustrate how to use wildcard queries, consider the following example. You have selected 4 hosts as a report scope: 2 NAS servers (NASserv1, NASserv2) and 2 Active Directory servers (AD01 and AD02).  If you want the report to show performance details only for the NAS servers, type nasserv\* in the Inclusion rule field. Alternatively, type ad\* in the Exclusion rule field. |
 
 [![Hyper-V Raw Performance Data Report](images/hyperv_raw_performance_data_01.webp)](images/hyperv_raw_performance_data_01.webp "Hyper-V Raw Performance Data Report")
+[![Hyper-V Raw Performance Data Report](images/hyperv_raw_performance_data_02.webp)](images/hyperv_raw_performance_data_02.webp "Hyper-V Raw Performance Data Report")
 
 Use Case
 

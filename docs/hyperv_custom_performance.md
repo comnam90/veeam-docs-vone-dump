@@ -3,7 +3,7 @@ title: "Hyper-V Custom Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_custom_performance.html"
-last_updated: "7/14/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -42,6 +42,7 @@ Business View groups from the same category are joined using Boolean OR operator
 * Show graphs: defines whether to show charts in the report output.
 
 [![Hyper-V Custom Performance Report](images/hyperv_custom_performance_01.webp)](images/hyperv_custom_performance_01.webp "Hyper-V Custom Performance Report")
+[![Hyper-V Custom Performance Report](images/hyperv_custom_performance_02.webp)](images/hyperv_custom_performance_02.webp "Hyper-V Custom Performance Report")
 
 Use Case
 

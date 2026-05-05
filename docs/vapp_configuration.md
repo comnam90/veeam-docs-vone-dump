@@ -3,7 +3,7 @@ title: "vApp Configuration"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vapp_configuration.html"
-last_updated: "8/25/2025"
+last_updated: "4/29/2026"
 product_version: "13.0.1.6168"
 ---
 
@@ -27,6 +27,7 @@ You can specify the following report parameters:
 * Organization: defines the organization whose vApps should be analyzed in the report.
 
 [![vApp Configuration Report](images/vapp_configuration.webp)](images/vapp_configuration.webp "vApp Configuration Report")
+[![vApp Configuration Report](images/vapp_configuration_2.webp)](images/vapp_configuration_2.webp "vApp Configuration Report")
 
 Use Case
 
