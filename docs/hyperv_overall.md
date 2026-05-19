@@ -3,7 +3,7 @@ title: "Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_overall.html"
-last_updated: "5/5/2026"
+last_updated: "5/19/2026"
 product_version: "13.0.1.6168"
 ---
 
