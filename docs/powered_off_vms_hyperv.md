@@ -3,8 +3,8 @@ title: "Powered Off VMs (Hyper-V)"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/powered_off_vms_hyperv.html"
-last_updated: "5/19/2026"
-product_version: "13.0.1.6168"
+last_updated: "5/27/2026"
+product_version: "13.0.2.6723"
 ---
 
 # Powered Off VMs (Hyper-V)
