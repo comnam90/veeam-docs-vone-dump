@@ -3,8 +3,8 @@ title: "Cloud Repositories Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_cloud_repositories_overview.html"
-last_updated: "5/19/2026"
-product_version: "13.0.1.6168"
+last_updated: "5/27/2026"
+product_version: "13.0.2.6723"
 ---
 
 # Cloud Repositories Overview
