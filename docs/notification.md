@@ -3,7 +3,7 @@ title: "Alarm Notification Options"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/notification.html"
-last_updated: "5/27/2026"
+last_updated: "6/19/2026"
 product_version: "13.0.2.6723"
 ---
 
