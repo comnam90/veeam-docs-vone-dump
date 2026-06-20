@@ -3,7 +3,7 @@ title: "Active Checkpoints"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/active_checkpoints_hyperv.html"
-last_updated: "5/27/2026"
+last_updated: "6/19/2026"
 product_version: "13.0.2.6723"
 ---
 
