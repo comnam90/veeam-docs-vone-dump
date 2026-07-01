@@ -3,7 +3,7 @@ title: "Approving Alarm Remediation Actions"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/remediate_alarms.html"
-last_updated: "5/27/2026"
+last_updated: "6/24/2026"
 product_version: "13.0.2.6723"
 ---
 
