@@ -3,7 +3,7 @@ title: "System Requirements for Large-Scale Deployment"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/requirements.html"
-last_updated: "5/27/2026"
+last_updated: "6/24/2026"
 product_version: "13.0.2.6723"
 ---
 
