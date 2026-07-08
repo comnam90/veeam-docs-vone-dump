@@ -3,8 +3,8 @@ title: "Custom Infrastructure"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/custom_infrastructure.html"
-last_updated: "4/20/2026"
-product_version: "13.0.1.6168"
+last_updated: "7/8/2026"
+product_version: "13.0.2.6723"
 ---
 
 # Custom Infrastructure
@@ -22,7 +22,7 @@ You can specify the following report parameters:
 Business View groups from the same category are joined using Boolean OR operator, Business View groups from different categories are joined using Boolean AND operator. That is, if you select groups from the same category, the report will contain all objects that are included in groups. However, if you select groups from different categories, the report will contain only objects that are included in all selected groups.
 
 * Object type: defines a list of infrastructure objects to analyze in the report.
-* Columns: defines configuration properties to analyze in the report. The list of available properties will depend on the selected object type. Use the Filter field to search for the necessary properties by name. Note that the number of selected properties must not exceed 50.
+* Columns: defines the configuration properties to analyze in the report. The list of available properties depends on the selected object type. Use the Filter field to search for the necessary properties by name. The number of selected properties (columns) must not exceed 15. This limit applies to columns only, not to filter conditions.
 * Custom filters: defines filters for the selected object properties.
 * Group by: defines whether infrastructure objects in the report must be grouped based on the value of a specific property. To group infrastructure objects by property value, select that property from the Group by drop-down list.
 

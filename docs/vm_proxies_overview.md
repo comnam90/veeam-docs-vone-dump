@@ -3,7 +3,7 @@ title: "VM Proxy Servers Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vm_proxies_overview.html"
-last_updated: "6/24/2026"
+last_updated: "7/8/2026"
 product_version: "13.0.2.6723"
 ---
 
