@@ -3,8 +3,8 @@ title: "Step 4. Specify Veeam Analytics Service Deployment Credentials"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_server_credentials.html"
-last_updated: "1/30/2026"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.0.2.6723"
 ---
 
 # Step 4. Specify Veeam Analytics Service Deployment Credentials
@@ -22,8 +22,9 @@ If the certificate installed on the server is not trusted, Veeam ONE displays a 
 
 * If you trust the server, click Trust and Continue.
 * If you are installing on a high availability cluster, you may need to trust multiple certificates depending on the administration setup of each node within the cluster.
-* If you are adding a high availability cluster, Veeam Analytics service must be installed on all nodes in the cluster where it is not already present. It is recommended to use the same user credentials on each node in the cluster. Otherwise, Veeam Analytics service may not install correctly on all secondary nodes, and you may need to perform a manual installation. For details on For details about setting up high availability clusters in Veeam Backup & Replication, see [Assembling High Availability Cluster](https://helpcenter.veeam.com/docs/vbr/userguide/high_availability_configuration.html).
+* If you are adding a high availability cluster, Veeam Analytics service must be installed on both nodes in the cluster where it is not already present. It is recommended to use the same user on each node in the cluster. Otherwise, Veeam Analytics service may not install correctly on the secondary node, and you may need to perform a manual installation. For details on setting up high availability clusters in Veeam Backup & Replication, see [Assembling High Availability Cluster](https://helpcenter.veeam.com/docs/vbr/userguide/high_availability_configuration.html).
 
 * If you do not trust the server, click Cancel. Veeam ONE will display an error message, and you will not be able to connect to the server.
 
+Page updated 2026-07-17
 
