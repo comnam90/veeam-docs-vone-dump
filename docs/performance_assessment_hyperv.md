@@ -3,7 +3,7 @@ title: "Performance Assessment"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/performance_assessment_hyperv.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -74,4 +74,5 @@ Use Case
 
 The report analyzes performance of the Microsoft Hyper-V infrastructure and provides recommendations to improve its configuration. You can use report results to implement the necessary hardware and software optimizations.
 
+Page updated 2026-07-17
 
