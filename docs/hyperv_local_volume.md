@@ -3,7 +3,7 @@ title: "Local Volume Performance Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_local_volume.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -27,4 +27,5 @@ Local Volume Performance Chart
 | Datastore Latency | Disk/Physical Disk: Avg Disk sec/Read | Millisecond | Average time that a read operation from a volume takes. |
 | Disk/Physical Disk: Avg Disk sec/Write | Millisecond | Average time that a write operation to a volume takes. |
 
+Page updated 2026-07-17
 
