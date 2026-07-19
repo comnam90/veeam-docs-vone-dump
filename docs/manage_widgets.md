@@ -3,7 +3,7 @@ title: "Managing Widgets"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/manage_widgets.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -18,4 +18,5 @@ In This Section
 * [Creating a Widget Report](create_widget_report.md)
 * [Deleting Widgets](delete_widgets.md)
 
+Page updated 2026-07-17
 
