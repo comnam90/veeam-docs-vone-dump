@@ -3,7 +3,7 @@ title: "VM Proxy Servers Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vm_proxies_overview.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -53,4 +53,5 @@ For every proxy, the chart shows the cumulative amount of time that the proxy wa
 
 The chart can help you reveal possible resource bottlenecks. If the backup window on the chart is abnormally large, this can evidence of low source data retrieval speed, high proxy CPU load or insufficient network throughput.
 
+Page updated 2026-07-17
 

@@ -3,7 +3,7 @@ title: "Infrastructure Changes Audit"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/changes_audit_vmware.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -41,4 +41,5 @@ Use Case
 
 The report allows IT administrators to get details on recent infrastructure changes made by authorized users so that any unwanted action can be quickly rolled back.
 
+Page updated 2026-07-17
 

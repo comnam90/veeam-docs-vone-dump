@@ -3,7 +3,7 @@ title: "WAN Accelerator Summary"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_wan_accelerator_summary.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -40,4 +40,5 @@ Transferred Data by Day
 
 The chart shows the amount of VM and computer data that was read from the source location (source repository or datastore/volume) and the amount of data that was actually transferred to the target destination (secondary repository or replica datastore/volume) over the past period.
 
+Page updated 2026-07-17
 
