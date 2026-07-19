@@ -3,7 +3,7 @@ title: "Step 2. Check Requirements to User Account"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/check_account_requirements.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -40,4 +40,5 @@ By default, this privilege is assigned to users included in the local Administra
 | Note: |
 | If you use the advanced deployment scenario, you must assign the Allow log on locally privilege on the machines that host the Veeam ONE Server and Veeam ONE Web UI components. |
 
+Page updated 2026-07-17
 
