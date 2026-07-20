@@ -3,7 +3,7 @@ title: "Linking Rules"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/alarm_rules_link.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -39,4 +39,5 @@ If you unlink rules, the alarm will be triggered each time when conditions for a
 
 [![Unlink Rules](images/alarms_unlink_rules.webp)](images/alarms_unlink_rules.webp "Unlink Rules")
 
+Page updated 2026-07-17
 
