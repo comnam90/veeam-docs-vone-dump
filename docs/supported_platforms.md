@@ -3,8 +3,8 @@ title: "Supported Platforms and Applications"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/supported_platforms.html"
-last_updated: "1/12/2026"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.0.2.6723"
 ---
 
 # Supported Platforms and Applications
@@ -41,7 +41,7 @@ Microsoft Hyper-V Environment
 
 Integration with VMware Cloud Director
 
-Veeam ONE offers monitoring and reporting capabilities for VMware Cloud Director version 10.1, 10.2, 10.3, 10.4 and 10.5.
+Veeam ONE offers monitoring and reporting capabilities for VMware Cloud Director version 10.4, 10.5 and 10.6.
 
 Integration with Veeam Backup & Replication
 
@@ -75,4 +75,5 @@ Veeam ONE offers monitoring and reporting capabilities for the following version
 | Note |
 | Before connecting Veeam Backup for Microsoft 365 server to Veeam ONE make sure that:   * License compatibility requirements are met: [Compatibility with Veeam Backup for Microsoft 365 Licenses](license_types.md#vbo). * REST API requirements are met to connect a Veeam Backup for Microsoft 365 server to Veeam ONE: [Configuring REST API and Restore Portal on Separate Machine](https://helpcenter.veeam.com/docs/vbo365/guide/vbo_configuring_rest_separate.html). |
 
+Page updated 2026-07-08
 
