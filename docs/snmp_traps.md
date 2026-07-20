@@ -3,7 +3,7 @@ title: "Configuring SNMP Traps"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/snmp_traps.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -29,4 +29,5 @@ To configure SNMP traps, perform the following steps:
 2. [Configure SNMP settings in Veeam ONE](configure_snmp_settings.md).
 3. [Change alarm action settings to enable SNMP traps for the necessary alarms](enable_snmp_notifications.md).
 
+Page updated 2026-07-17
 
