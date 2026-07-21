@@ -3,7 +3,7 @@ title: "Creating Custom Dashboards"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/create_custom_dashboards.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -20,4 +20,5 @@ Create a new dashboard, specify its name and description.
 
 Add custom widgets to the new dashboard and specify widget settings.
 
+Page updated 2026-07-17
 
