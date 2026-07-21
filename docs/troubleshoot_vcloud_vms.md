@@ -3,7 +3,7 @@ title: "Troubleshooting Virtual Machine Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/troubleshoot_vcloud_vms.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -32,4 +32,5 @@ To view the list of processes, select the necessary VM in the inventory pane and
 
 To access a VM console, select the necessary VM in the inventory pane and go to the Console tab. For more information, see [VMware vSphere VM Console](vsphere_console.md).
 
+Page updated 2026-07-17
 
