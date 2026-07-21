@@ -3,7 +3,7 @@ title: "Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_overall.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -18,4 +18,5 @@ To drill down to performance chart details, click the counter link above a perfo
 
 [![ Overall Chart](images/hyperv_overall_chart.webp)](images/hyperv_overall_chart.webp " Overall Chart")
 
+Page updated 2026-07-17
 

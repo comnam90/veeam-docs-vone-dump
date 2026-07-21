@@ -3,7 +3,7 @@ title: "Organization Summary"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vcloud_organization_summary.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -38,4 +38,5 @@ The value in the Alarms column shows the number of errors and warnings for an ob
 
 For details on alarms, see [Working with Triggered Alarms](triggered_alarms.md).
 
+Page updated 2026-07-17
 

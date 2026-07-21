@@ -3,7 +3,7 @@ title: "Importing and Exporting Categorization Data"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/bv_import_categories.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -20,4 +20,5 @@ If you use vCenter Server tags and System Center Virtual Machine Manager custom 
 
 You can synchronize Business View categorization data with categorization data from 3rd party software. In Veeam ONE, you can import categorization data from and export categorization data to a CSV file that acts as a medium between the two systems.
 
+Page updated 2026-07-17
 

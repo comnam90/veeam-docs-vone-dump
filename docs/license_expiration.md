@@ -3,7 +3,7 @@ title: "License Expiration"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/license_expiration.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -29,4 +29,5 @@ License Expiration
 | Subscription license | 30 days |
 | Rental license | 60 days |
 
+Page updated 2026-07-17
 

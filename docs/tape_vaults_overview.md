@@ -3,7 +3,7 @@ title: "Tape Vaults Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/tape_vaults_overview.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -30,4 +30,5 @@ Use Case
 
 This report allows you to track offline tapes stored in vaults that were created by Veeam Backup & Replication servers. Since vaults keep information about original location of tapes, such as library and media pool, data written to tapes and retention policy, you can also use the information provided in the report to facilitate offline tape management and track VMs and computers stored on these tapes.
 
+Page updated 2026-07-17
 
