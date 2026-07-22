@@ -3,7 +3,7 @@ title: "System Requirements for Large-Scale Deployment"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/requirements.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -18,4 +18,5 @@ The required deployment configuration relies on the custom deployment scenario, 
 
 Veeam ONE supports both virtual and physical servers for installation. This document describes a scenario where Veeam ONE components are installed on virtual machines.
 
+Page updated 2026-07-17
 
