@@ -3,7 +3,7 @@ title: "Notifications on Resolved Alarms"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/resolved_notifications.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -30,4 +30,5 @@ The following image shows an example of a notification about a resolved alarm.
 
 [![Notification on Resolved Alarms](images/notification_on_resolved_alarm.webp)](images/notification_on_resolved_alarm.webp "Notification on Resolved Alarms")
 
+Page updated 2026-07-17
 
