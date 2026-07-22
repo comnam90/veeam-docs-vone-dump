@@ -3,7 +3,7 @@ title: "Exported Tapes"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/tape_exportation.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -31,4 +31,5 @@ Use Case
 
 The report allows you to trace tapes exported from tape libraries. You can use this report to find the necessary backup files on tape.
 
+Page updated 2026-07-17
 

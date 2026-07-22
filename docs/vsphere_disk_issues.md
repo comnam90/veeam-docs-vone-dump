@@ -3,7 +3,7 @@ title: "Disk Issues Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vsphere_disk_issues.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -22,4 +22,5 @@ Disk Issues Chart
 | Datastore Issues | Disk/ESXi: Datastore Bus Resets | Number | Number of aborted SCSI commands. |
 | Disk/ESXi: Datastore Command Aborts | Number | Number of SCSI bus reset commands. |
 
+Page updated 2026-07-17
 

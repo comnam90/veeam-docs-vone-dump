@@ -3,7 +3,7 @@ title: "Alarm Severity"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/severity.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -26,4 +26,5 @@ You can define different severity levels for conditions of different intensity. 
 
 In such situation, if the memory usage level is constantly growing and exceeds 70%, Veeam ONE will trigger a warning alarm, notifying about a potentially dangerous situation. If the memory usage level keeps on growing and exceeds the level of 75%, Veeam ONE will trigger an error alarm notifying about the severe danger.
 
+Page updated 2026-07-17
 
