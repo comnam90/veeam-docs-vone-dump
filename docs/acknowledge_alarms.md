@@ -3,7 +3,7 @@ title: "Acknowledging Alarms"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/acknowledge_alarms.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -20,4 +20,5 @@ In This Section
 * [Acknowledging Multiple Alarms](acknowledge_multiple_alarms.md)
 * [Notifications on Acknowledged Alarms](acknowledged_notifications.md)
 
+Page updated 2026-07-17
 
