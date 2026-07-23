@@ -3,7 +3,7 @@ title: "HA SMB Performance Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_ha_smb.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -36,4 +36,5 @@ HA SMB Performance Chart
 | Direct/Redirected IOPS | Disk/CSV: Direct IOPS | Number | Rate at which read and write operations were performed directly on a disk. |
 | Disk/CSV: Redirected IOPS | Number | Rate at which read and write operations were redirected to a volume through the network. |
 
+Page updated 2026-07-17
 
