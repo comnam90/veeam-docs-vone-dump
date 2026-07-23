@@ -3,7 +3,7 @@ title: "Report Builder"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/report_builder.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -27,4 +27,5 @@ Use Case
 
 This report eliminates data redundancy and helps you focus on the most relevant and important information about your infrastructure.
 
+Page updated 2026-07-17
 
