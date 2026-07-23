@@ -3,7 +3,7 @@ title: "Step 4. Specify Alarm Assignment Scope"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/alarm_assignment.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -39,4 +39,5 @@ You can exclude objects from alarm assignment scope:
 
 [![Specify Alarm Assignment](images/creating_alarm_exclude_from_alarm.webp)](images/creating_alarm_exclude_from_alarm.webp "Specify Alarm Assignment")
 
+Page updated 2026-07-17
 
