@@ -3,7 +3,7 @@ title: "Memory Performance Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vbo_memory.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -14,4 +14,5 @@ The Memory chart shows the amount of used memory resources on a machine where a 
 
 [![Memory Performance Chart](images/vbo_memory_performance_chart.webp)](images/vbo_memory_performance_chart.webp "Memory Performance Chart")
 
+Page updated 2026-07-17
 
