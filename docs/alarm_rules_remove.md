@@ -3,7 +3,7 @@ title: "Removing Rules"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/alarm_rules_remove.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -17,4 +17,5 @@ To remove a rule from an alarm:
 
 [![Remove Rule from the Alarm](images/alarms_remove_rule.webp)](images/alarms_remove_rule.webp "Remove Rule from the Alarm")
 
+Page updated 2026-07-17
 
