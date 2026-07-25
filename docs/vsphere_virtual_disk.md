@@ -3,7 +3,7 @@ title: "Virtual Disks Performance Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vsphere_virtual_disk.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -26,4 +26,5 @@ Virtual Disks Performance Chart
 | Virtual Disks Latency | Read Latency | Millisecond | Average amount of time that a read operation from a virtual disk takes. |
 | Write Latency | Millisecond | Average amount of time that a write operation to a virtual disk takes. |
 
+Page updated 2026-07-17
 
