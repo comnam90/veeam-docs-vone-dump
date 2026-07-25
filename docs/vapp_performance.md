@@ -3,7 +3,7 @@ title: "vApp Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vapp_performance.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -31,4 +31,5 @@ Use Case
 
 The report helps you identify vApps with performance issues and decide whether additional right-sizing or reconfiguration actions are necessary.
 
+Page updated 2026-07-17
 

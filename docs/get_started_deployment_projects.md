@@ -3,7 +3,7 @@ title: "Getting Started with Deployment Projects"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/get_started_deployment_projects.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -18,4 +18,5 @@ A typical workflow for creating a deployment project includes the following step
 4. [Create a report to examine results](view_project_report.md).
 5. [Complete the project after the actual resources have been added or evicted](complete_deployment_projects.md).
 
+Page updated 2026-07-17
 
