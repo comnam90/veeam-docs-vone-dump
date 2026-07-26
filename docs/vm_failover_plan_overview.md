@@ -3,7 +3,7 @@ title: "VM Failover Plan Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vm_failover_plan_overview.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -33,4 +33,5 @@ Use Case
 
 The report allows you to keep records of your failover plans for auditing purposes and compliance tests.
 
+Page updated 2026-07-17
 
