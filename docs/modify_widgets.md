@@ -3,7 +3,7 @@ title: "Changing Widget Properties"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/modify_widgets.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -23,4 +23,5 @@ For details, see [Add Widgets to Dashboard](add_widgets.md).
 
 1. Save changes.
 
+Page updated 2026-07-17
 
