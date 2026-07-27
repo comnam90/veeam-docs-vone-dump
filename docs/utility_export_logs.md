@@ -3,7 +3,7 @@ title: "Exporting Logs"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/utility_export_logs.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -21,4 +21,5 @@ The Veeam ONE Settings utility will export logs and save them to a ZIP archive i
 
 [![Export Logs](images/export_logs.webp)](images/export_logs.webp "Export Logs")
 
+Page updated 2026-07-17
 
