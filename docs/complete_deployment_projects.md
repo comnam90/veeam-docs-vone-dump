@@ -3,7 +3,7 @@ title: "Completing Deployment Projects"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/complete_deployment_projects.html"
-last_updated: "7/8/2026"
+last_updated: "2026"
 product_version: "13.0.2.6723"
 ---
 
@@ -23,4 +23,5 @@ To complete a deployment project:
 
 After you complete a project, the date in the Completed column will be set to the current date.
 
+Page updated 2026-07-17
 
