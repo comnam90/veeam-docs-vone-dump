@@ -3,8 +3,8 @@ title: "Cloud Repositories Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_cloud_repositories_overview.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Cloud Repositories Overview
@@ -37,4 +37,5 @@ Top Cloud Repositories by Daily Utilization Growth
 
 The chart allows you to detect how fast the amount of used space on repositories increased over the past 7 days. For every repository, the chart shows the daily disk space growth usage rate (the average increase in GB per day).
 
+Page updated 2026-07-29
 
