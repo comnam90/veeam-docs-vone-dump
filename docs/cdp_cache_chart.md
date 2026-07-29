@@ -3,8 +3,8 @@ title: "Cache Performance Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/cdp_cache_chart.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Cache Performance Chart
@@ -14,4 +14,5 @@ The Cache chart shows the amount of space consumed by the data processed during 
 
 [![Cache Performance Chart](images/backup_cache_performance_chart.webp)](images/backup_cache_performance_chart.webp "Cache Performance Chart")
 
+Page updated 2026-07-29
 
