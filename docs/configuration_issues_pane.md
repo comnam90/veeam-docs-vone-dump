@@ -3,8 +3,8 @@ title: "Configuration Issues Pane"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/configuration_issues_pane.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Configuration Issues Pane
@@ -14,4 +14,5 @@ The Configuration issues pane displays information on alarms triggered as a resu
 
 [![Configuration Issues Pane](images/configuration_issues_pane.webp)](images/configuration_issues_pane.webp "Configuration Issues Pane")
 
+Page updated 2026-07-29
 
