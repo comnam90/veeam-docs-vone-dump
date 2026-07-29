@@ -3,8 +3,8 @@ title: "Data Retention"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/data_retention.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Data Retention
@@ -37,4 +37,5 @@ To generate performance reports, Veeam ONE uses data with 2-hour resolution.
 
 If you use Veeam ONE for monitoring and reporting in large environments, the Veeam ONE database can grow quickly. To support large virtual and backup infrastructures and reduce the size of the Veeam ONE database, you can increase aggregation intervals for performance data. To learn how to change aggregation intervals, contact Veeam Support at <https://www.veeam.com/support.html>.
 
+Page updated 2026-07-29
 

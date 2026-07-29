@@ -3,8 +3,8 @@ title: "Cloud Gateways Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_cloud_gateways_overview.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Cloud Gateways Overview
@@ -37,4 +37,5 @@ The chart shows the amount of data transferred by the most utilized gateways, as
 
 The chart can help you detect cloud gateways that transfer the greatest amount of backup data and estimate the load on gateways.
 
+Page updated 2026-07-29
 

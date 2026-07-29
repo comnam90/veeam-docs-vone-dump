@@ -3,8 +3,8 @@ title: "Multiple vApps Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vapps_performance.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Multiple vApps Performance
@@ -32,4 +32,5 @@ Use Case
 
 The report provides an overview resource consumption of multiple vApps. This information may help you identify VMs with performance issues, balance workloads, right-size resource provisioning and optimize overall performance.
 
+Page updated 2026-07-29
 

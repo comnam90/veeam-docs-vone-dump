@@ -3,8 +3,8 @@ title: "Modifying Deployment Projects"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/modify_deployment_projects.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Modifying Deployment Projects
@@ -22,4 +22,5 @@ To modify deployment project settings:
 
 After you change project settings, you need to calculate the project anew. You may also need to recalculate overlapping or dependent projects. For example, if you change the project due date to an earlier date, Veeam ONE Web Client will offer you to recalculate all projects whose dates overlap with the changed project.
 
+Page updated 2026-07-29
 

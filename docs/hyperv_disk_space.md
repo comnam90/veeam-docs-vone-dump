@@ -3,8 +3,8 @@ title: "Disk Space Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_disk_space.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Disk Space Chart
@@ -23,4 +23,5 @@ Disk Space Chart
 | Disk Provisioned Space | TB | Amount of disk space provisioned to VMs. |
 | Disk Used Space | TB | Amount of used space on a disk. |
 
+Page updated 2026-07-29
 

@@ -3,8 +3,8 @@ title: "Security"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/credentials_manager.html"
-last_updated: "3/4/2026"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Security
@@ -245,4 +245,31 @@ You can adjust the login session settings to optimize the process of accessing V
 
 1. Click Save.
 
+Certificate Management
+
+You can access the certificate settings page to optimize the process of accessing Veeam ONE Web Client. To do that:
+
+1. Open Veeam ONE Web Client.
+2. At the top right corner of the Veeam ONE Web Client window, click Configuration.
+3. In the configuration menu on the left, click Security.
+4. Navigate to the Certificate Management tab.
+5. Select the certificate from the certificate list.
+
+For each server in the list, the following details are available:
+
+* Common Name — the common name of the certificate.
+* Issued by — the name of the certificate issuer.
+* Expiration Date — the date the certificate expires.
+* Type — the type of certificate.
+* Description — additional notes and information for the certificate.
+
+1. Click Show Certificate on the selected certificate to open the certificate details screen.
+
+Export certificate settings
+
+You can export certificate either in JSON or CSV formats for the purposes of evaluation, reporting and troubleshooting. To do that, select the certificate and click Export.
+
+[![Certificate Management](images/certificate_management.webp)](images/certificate_management.webp "Certificate Management")
+
+Page updated 2026-07-24
 

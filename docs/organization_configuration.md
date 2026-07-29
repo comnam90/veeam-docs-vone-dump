@@ -3,8 +3,8 @@ title: "Organization Configuration"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/organization_configuration.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Organization Configuration
@@ -36,4 +36,5 @@ Use Case
 
 The report helps administrators assess configuration properties of organizations in the monitored VMware Cloud Director infrastructure.
 
+Page updated 2026-07-29
 

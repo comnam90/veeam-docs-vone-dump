@@ -3,8 +3,8 @@ title: "vSphere Custom Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vmware_custom_performance.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # vSphere Custom Performance
@@ -49,4 +49,5 @@ Use Case
 
 Use this report to investigate specific performance issues in the environment.
 
+Page updated 2026-07-29
 

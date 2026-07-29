@@ -3,8 +3,8 @@ title: "Step 1. Check Veeam ONE Security Group Membership"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/check_security_membership.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Step 1. Check Veeam ONE Security Group Membership
@@ -14,4 +14,5 @@ Check that the user is not included in Veeam ONE security groups (Veeam ONE Admi
 
 For details, see [Permissions and Security Groups](permissions_vs_security_groups.md).
 
+Page updated 2026-07-29
 
