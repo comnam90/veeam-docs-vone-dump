@@ -3,8 +3,8 @@ title: "Sizing and Scalability Best Practices"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/scalability.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Sizing and Scalability Best Practices
@@ -19,4 +19,5 @@ In This Section
 * [System Requirements for Large-Scale Deployment](requirements.md)
 * [Walkthrough: Deploy and Configure Veeam ONE](walktrough.md)
 
+Page updated 2026-07-29
 
