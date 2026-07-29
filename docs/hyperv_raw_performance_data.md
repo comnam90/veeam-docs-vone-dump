@@ -3,8 +3,8 @@ title: "Hyper-V Raw Performance Data"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_raw_performance_data.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Hyper-V Raw Performance Data
@@ -43,4 +43,5 @@ Use Case
 
 This report provides advanced historical performance data that you can export to a spreadsheet application and use for analysis and reporting purposes.
 
+Page updated 2026-07-29
 
