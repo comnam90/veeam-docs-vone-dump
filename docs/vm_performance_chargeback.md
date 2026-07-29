@@ -3,8 +3,8 @@ title: "VM Performance Chargeback"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vm_performance_chargeback.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # VM Performance Chargeback
@@ -58,4 +58,5 @@ IT departments can use this report to calculate the cost of provisioned VMs for 
 | Note: |
 | The cost of storage resources is calculated based on the amount of space occupied by VM files. Business hours do not affect the cost of storage resources. For example, if a VM consumes 100 GB space, and storage price is 0.1 USD per week, the total cost of storage resources for the VM will be 10 USD.  Note that the VM files growth factor can influence the cost of storage resources. The report calculates an average value of consumed storage space on each day of the specified interval. For example, if a VM occupied 50 GB at the beginning of the week, and grew up to 100 GB in the middle of the week, the average amount of occupied space will be 75 GB, and the total cost for the week will be 7.5 USD. |
 
+Page updated 2026-07-29
 
