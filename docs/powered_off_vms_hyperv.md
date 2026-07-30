@@ -3,8 +3,8 @@ title: "Powered Off VMs (Hyper-V)"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/powered_off_vms_hyperv.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Powered Off VMs (Hyper-V)
@@ -36,4 +36,5 @@ Use Case
 
 The report allows you to track VMs that have been in the powered off state for a specified time period. Since powered off VMs consume space required to store their disks and configuration data, you can review storage usage and relocate these machines, or decommission machines that you no longer need.
 
+Page updated 2026-07-30
 
