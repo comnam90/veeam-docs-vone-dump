@@ -3,8 +3,8 @@ title: "Idle VMs (Hyper-V)"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/idle_vms_hyperv.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Idle VMs (Hyper-V)
@@ -48,4 +48,5 @@ Use Case
 
 This report can help you track VMs that can be shut down or decommissioned to reclaim resources and improve performance of your virtual infrastructure.
 
+Page updated 2026-07-30
 

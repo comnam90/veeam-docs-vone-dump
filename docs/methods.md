@@ -3,8 +3,8 @@ title: "Functions"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/methods.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Functions
@@ -30,4 +30,5 @@ Functions
 | ToLowerCase | Text (string) | Converts a string to lower case letters.  The function accepts a string value as an argument. | Expression ToLowerCase("LoWeRCaSe") returns lowercase. |
 | ToUpperCase | Text (string) | Converts a string to upper case letters.  The function accepts a string value as an argument. | Expression ToUpperCase("uppercase") returns UPPERCASE. |
 
+Page updated 2026-07-30
 

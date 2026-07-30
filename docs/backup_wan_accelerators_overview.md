@@ -3,8 +3,8 @@ title: "WAN Accelerators Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_wan_accelerators_overview.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # WAN Accelerators Overview
@@ -42,4 +42,5 @@ The chart shows 5 pairs of WAN accelerators that transferred the greatest amount
 
 Every graph in the chart shows the total amount of VM and computer data that was sent from the source-side accelerator to the target-side accelerator over the network.
 
+Page updated 2026-07-30
 

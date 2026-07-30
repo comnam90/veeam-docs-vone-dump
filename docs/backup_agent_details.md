@@ -3,8 +3,8 @@ title: "Computer Details"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_agent_details.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Computer Details
@@ -33,4 +33,5 @@ The section provides the following details:
 * The latest status of the backup job session (Success, Warning, Failed, Running, No Info)
 * Date and time when the latest successful backup was created for the computer
 
+Page updated 2026-07-30
 

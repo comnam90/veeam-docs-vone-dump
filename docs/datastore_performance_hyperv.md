@@ -3,8 +3,8 @@ title: "Local Datastore Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/datastore_performance_hyperv.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Local Datastore Performance
@@ -30,4 +30,5 @@ Use Case
 
 The report helps you identify local disks with performance issues.
 
+Page updated 2026-07-30
 

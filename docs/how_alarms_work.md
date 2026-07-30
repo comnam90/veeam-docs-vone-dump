@@ -3,8 +3,8 @@ title: "How Alarms Work"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/how_alarms_work.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # How Alarms Work
@@ -18,4 +18,5 @@ If an alarm is configured to perform an action, Veeam ONE performs a response ac
 
 If the event, state or condition that triggered the alarm is resolved, Veeam ONE updates the alarm status in the console.
 
+Page updated 2026-07-30
 

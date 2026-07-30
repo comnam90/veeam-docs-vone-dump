@@ -3,8 +3,8 @@ title: "Volume Cache Performance Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_volume_cache.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Volume Cache Performance Chart
@@ -22,4 +22,5 @@ Volume Cache Performance Chart
 | Bytes Read Rate | Cache IO Read | MB/s | Rate at which data is transferred from the volume cache during read operations. |
 | Total Read | Cache Reads/sec | Number | Number of read operations performed in the volume cache per second. |
 
+Page updated 2026-07-30
 

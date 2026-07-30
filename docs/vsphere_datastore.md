@@ -3,8 +3,8 @@ title: "Datastore Performance Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vsphere_datastore.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Datastore Performance Chart
@@ -60,4 +60,5 @@ Virtual Machine
 For objects that are parent to ESXi hosts and VMs, Veeam ONE Monitor displays rollup values.
 Charts for folders, clusters, datacenters, vCenter Servers display rollup values for all hosts in the container. Chart for a resource pool displays rollup values for all VMs in the resource pool.
 
+Page updated 2026-07-30
 
