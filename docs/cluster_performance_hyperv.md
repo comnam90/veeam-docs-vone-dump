@@ -3,8 +3,8 @@ title: "Failover Cluster Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/cluster_performance_hyperv.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Failover Cluster Performance
@@ -34,4 +34,5 @@ Use Case
 
 The report shows resource consumption data for the selected cluster within a specified reporting period. You can use this data to detect clusters with performance issues, review resource provisioning, adjust workloads and optimize cluster overall performance.
 
+Page updated 2026-07-30
 
