@@ -3,8 +3,8 @@ title: "Oversized VMs (Hyper-V)"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/oversized_vms_hyperv.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Oversized VMs (Hyper-V)
@@ -41,4 +41,5 @@ Use Case
 
 By analyzing historical performance, this report helps you identify VMs with excessive resource provisioning. You can use data in this report to change the current VM configuration and relocate VMs to other hosts.
 
+Page updated 2026-07-31
 
