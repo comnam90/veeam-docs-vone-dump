@@ -3,8 +3,8 @@ title: "VMware Cloud Director Resources"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vcloud_resources.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # VMware Cloud Director Resources
@@ -21,4 +21,5 @@ In This Section
 * [Organization VDCs](vcloud_organization_vdcs.md)
 * [vApps](vcloud_vapps.md)
 
+Page updated 2026-07-31
 

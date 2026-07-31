@@ -3,8 +3,8 @@ title: "Tape Backup Jobs"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/tape_backups.html"
-last_updated: "4/20/2026"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Tape Backup Jobs
@@ -17,7 +17,7 @@ To learn more about the 3-2-1 backup strategy, see the Veeam Blog article [How t
 This report maintains a record of VMs and computers archived to tapes.
 
 * The Summary section provides information on the number of VMs and computers in backups stored on disk and archived to tapes, consumed tape capacity, and the total number of used tapes.
-* The Details and Tape Details tables show properties of each backup to tape job: the total number of available restore points, restore point creation date, number of VMs and computers in the backup file and backup type (full or incremental).
+* The Details and Tape Details tables show properties of each backup to tape job: the total number of available restore points, restore point creation date, number of workloads in the backup file and backup type (full or incremental).
 
 Report Parameters
 
@@ -31,4 +31,5 @@ Use Case
 
 The report provides a summary of all backup to tape operations that took place on the managed backup server. The report displays an inventory list of items archived to the tape media. This allows you to make sure that mission critical VMs and computers have backups on tapes and are safely protected.
 
+Page updated 2026-07-30
 

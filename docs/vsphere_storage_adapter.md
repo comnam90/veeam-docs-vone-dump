@@ -3,8 +3,8 @@ title: "Storage Adapter Performance Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vsphere_storage_adapter.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Storage Adapter Performance Chart
@@ -27,4 +27,5 @@ Storage Adapter Performance Chart
 | Adapter Latency | Adapter Read Latency | Millisecond | Average amount of time that a read operation on a storage path takes. |
 | Adapter Write Latency | Millisecond | Average amount of time that a write operation on a storage path takes. |
 
+Page updated 2026-07-31
 

@@ -3,8 +3,8 @@ title: "Veeam Backup & Replication Dashboard"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vbr_dashboard.html"
-last_updated: "9/19/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Veeam Backup & Replication Dashboard
@@ -52,7 +52,7 @@ This widget displays information on VMware vSphere and Microsoft Hyper-V VMs pro
 
 Protected Workloads
 
-This widget displays information on all protected workloads in your infrastructure: VMs (VMware, Hyper-V, AHV, Proxmox VE, KVM), Computers, Cloud instances, Enterprise Applications, Unstructured Data.
+This widget displays information on all protected workloads in your infrastructure: VMs (VMware, Hyper-V, AHV, Proxmox VE, KVM, Scale Computing, HPE Morpheus, Sangfor, Xen), Computers, Cloud instances, Enterprise Applications, Unstructured Data.
 
 Top Jobs by Duration
 
@@ -73,4 +73,5 @@ Arrows on the right show how the repository free space value has changed over th
 
 \*The arrows allow you to compare the results of this week to the results of the previous week and to track how the trend has evolved. For example, a grey arrow pointing right next to the Duration value means that duration of the job has not changed over the past week, a green arrow pointing down means that job duration has decreased, while a red arrow pointing up means that job duration has increased.
 
+Page updated 2026-07-30
 
