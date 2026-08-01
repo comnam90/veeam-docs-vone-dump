@@ -3,8 +3,8 @@ title: "Disk Space Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vsphere_disk_space.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Disk Space Chart
@@ -22,4 +22,5 @@ Disk Space Chart
 | Datastore Space Usage | Disk/Datastore: Datastore Free Space | TB/GB | Amount of free space on a datastore. |
 | Disk/Datastore: Datastore Provisioned Space | TB/GB | Amount of storage allocated for a datastore. Size of files on the datastore cannot exceed this value. |
 
+Page updated 2026-07-31
 
