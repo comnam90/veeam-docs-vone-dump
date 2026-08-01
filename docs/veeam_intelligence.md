@@ -3,8 +3,8 @@ title: "Veeam Intelligence"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/veeam_intelligence.html"
-last_updated: "9/30/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Veeam Intelligence
@@ -73,4 +73,5 @@ Responses from Veeam Intelligence are generated in real-time, token-by-token, al
 
 If you find the answer to be insufficient, you can add more details. The bot retains the conversation context and previous questions within a current session, so you do not have to repeat anything. If you close the session, Veeam Intelligence restarts and loses the context of your previous conversation.
 
+Page updated 2026-04-10
 
