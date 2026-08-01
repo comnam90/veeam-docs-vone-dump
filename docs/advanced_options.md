@@ -3,8 +3,8 @@ title: "Advanced Alarm Options"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/advanced_options.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Advanced Alarm Options
@@ -20,4 +20,5 @@ Related Topics
 * [Suppressing Alarms](suppress_alarms.md)
 * [Modeling Alarm Number](model_alarms.md)
 
+Page updated 2026-07-31
 
