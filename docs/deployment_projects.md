@@ -3,8 +3,8 @@ title: "Deployment Projects"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/deployment_projects.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Deployment Projects
@@ -65,4 +65,5 @@ You can create several simulation scenarios that describe complex conditions, su
 
 When you create a new deployment project or make changes in the existing deployment project, Veeam ONE checks if there is any overlapping project. If there are changes that may affect the concurrent project, Veeam ONE Web Client will prompt you to recalculate the overlapping projects.
 
+Page updated 2026-07-31
 
