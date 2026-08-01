@@ -3,8 +3,8 @@ title: "Configuration Assessment"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/configuration_assessment_hyperv.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Configuration Assessment
@@ -69,4 +69,5 @@ Use Case
 
 This report shows a list of clusters, hosts and VMs in your virtual environment that could experience potential issues during backup, gets guidance on how to resolve these issues.
 
+Page updated 2026-07-31
 

@@ -3,8 +3,8 @@ title: "Host Resource Usage Chargeback"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/host_resource_usage_chargeback.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Host Resource Usage Chargeback
@@ -80,4 +80,5 @@ The report can also be used to prevent excessive resource consumption and ensure
 
 Service providers that do not have flat fees on virtual infrastructure resources, can use this report as a chargeback instrument to calculate the cost of resources their clients have utilized during the billing period, and charge for provided services based on the actual resource consumption.
 
+Page updated 2026-07-31
 

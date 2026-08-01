@@ -3,8 +3,8 @@ title: "Accessing Veeam ONE Components"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/access.html"
-last_updated: "10/22/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Accessing Veeam ONE Components
@@ -30,10 +30,16 @@ Members of the Power User group can also access the Veeam ONE Client, but receiv
 
 This prerequisite applies to the VMware vSphere platform only.
 
+1. If multi-factor authentication (MFA) is enabled through Access Management, in the Confirm MFA dialog, enter the one-time code shown in your authenticator app and click Confirm. For details on on configuring MFA, see [Configuring Multi-Factor Authentication](users_mfa.md).
+
+On the first login after MFA is enabled, you must set up MFA in Veeam ONE Web Client before you can log in to Veeam ONE Client. Open Veeam ONE Web Client, complete the MFA setup, and then connect from Veeam ONE Client.
+
+[![MFA Authentication](images/mfa_authenticator_client.webp)](images/mfa_authenticator_client.webp "MFA Authentication")
+
 1. Click Connect.
 2. If Veeam ONE is configured to display a consent banner, read the banner content and click I Agree.
 
-For details on configuring consent banner, see [Banners](consent_banners.md).
+For details on configuring the consent banner, see [Banners](consent_banners.md).
 
 To create a shortcut for the connection, click Save Shortcut. You can create one shortcut for every Veeam ONE server. The server name will be saved after the first successful login.
 
@@ -44,7 +50,7 @@ To create a shortcut for the connection, click Save Shortcut. You can create one
 
 Other Ways to Access Veeam ONE Client
 
-To gain a faster access to Veeam ONE Client, you can launch it without providing user credentials in the authentication window.
+To gain faster access to Veeam ONE Client, you can launch it without providing user credentials in the authentication window.
 
 * To launch Veeam ONE Client under the account of a user that is currently logged to the machine, in the command shell call the Monitor.exe file that resides in the installation directory and pass the /currentuser parameter. For example:
 
@@ -63,7 +69,7 @@ To access Veeam ONE Web Client:
 1. Open the Veeam ONE Web Client website using one of the following options:
 
 * Access Veeam ONE Web Client from the Veeam ONE Client. To do this, in the main menu, click Reports.
-* Access Veeam ONE Web Client locally, on the machine where the Veeam ONE Web UI component is installed. To do this choose Veeam ONE Web Client in the Microsoft Windows Programs menu.
+* Access Veeam ONE Web Client locally, on the machine where the Veeam ONE Web UI component is installed. To do this, choose Veeam ONE Web Client in the Microsoft Windows Programs menu.
 * Access Veeam ONE Web Client remotely using your web browser. To do this, browse to the URL of the Veeam ONE Web Client website. This website runs on the machine where the Veeam ONE Web UI component is installed. The URL must look similar to the following one (assuming you use the default website port 1239):
 
 https://webserver.domain.tld:1239
@@ -71,7 +77,7 @@ https://webserver.domain.tld:1239
 Note that Veeam ONE Web Client is available over HTTPS.
 
 1. If Veeam ONE is configured to display a consent banner, read the banner content and click I Agree.
-2. Type credentials of a user account under which you want to connect to Veeam ONE Web Client.
+2. Enter credentials of a user account under which you want to connect to Veeam ONE Web Client.
 
 The user account must either:
 
@@ -85,9 +91,17 @@ To connect using credentials of a Microsoft Windows user account under which you
 
 If multi-factor authentication (MFA) is enabled through certificate authentication, select Log in with your certificate. For details on, see [Veeam ONE Web Settings](utility_reporter.md).
 
-1. Click Log In.
+1. Log in using one of the following methods:
+
+* Click Log in — enter your login credential name and password.
+* Click Log in as current user — log in using your stored credentials from a previous session using credentials under which you are logged onto the machine.
+* Click Log in using SSO — log in using your preferred SSO provider.
 
 [![Login Page](images/login.webp)](images/login.webp "Login Page")
+
+If multi-factor authentication (MFA) is enabled through Access Management, on the Multi-Factor Authentication (MFA) screen, enter the one-time code shown in your authenticator app and click Log in. On the first login after MFA is enabled, you are prompted to set up MFA: scan the displayed QR code with your authenticator app or enter the secret key manually, then enter the generated code and click Confirm.
+
+[![MFA authentication](images/mfa_authenticator.webp)](images/mfa_authenticator.webp "MFA authentication")
 
 1. In the displayed Welcome pop-up window, click Start to view all updates.
 
@@ -104,6 +118,7 @@ If you used a self-signed certificate and try to access Veeam ONE Web Client fro
 
 Veeam ONE REST API
 
-To access Veeam ONE REST API Swagger UI see section [Evaluation with Swagger UI](https://helpcenter.veeam.com/references/one/13/rest/tag/SectionOverview#section/Evaluation-with-Swagger-UI) of the REST API Reference guide.
+For details on accessing Veeam ONE REST API Swagger UI, see section [Evaluation with Swagger UI](https://helpcenter.veeam.com/references/one/13/rest/tag/SectionOverview#section/Evaluation-with-Swagger-UI) of the REST API Reference guide.
 
+Page updated 2026-07-02
 
