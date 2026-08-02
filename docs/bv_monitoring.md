@@ -3,8 +3,8 @@ title: "Business View Monitoring"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/bv_monitoring.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Business View Monitoring
@@ -28,4 +28,5 @@ In This Section
 * [Business View Performance Charts](bv_charts.md)
 * [Troubleshooting Performance of Categorized Objects](troubleshoot_bv_objects.md)
 
+Page updated 2026-07-31
 
