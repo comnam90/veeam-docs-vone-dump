@@ -3,8 +3,8 @@ title: "Cluster/Host Disk Performance Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_host_disk.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Cluster/Host Disk Performance Chart
@@ -26,4 +26,5 @@ Cluster/Host Disk Performance Chart
 | Disk Latency | Disk/Host: Avg Disk sec/Read | Millisecond | Average amount of time that a read operation from a disk takes. |
 | Disk/Host: Avg Disk sec/Write | Millisecond | Average amount of time that a write operation to a disk takes. |
 
+Page updated 2026-07-31
 

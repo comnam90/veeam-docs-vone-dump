@@ -3,8 +3,8 @@ title: "CPU Performance Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_cpu.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # CPU Performance Chart
@@ -47,4 +47,5 @@ Virtual Machine
 For objects that are parent to hosts and VMs, Veeam ONE Client displays rollup values.
 Charts for folders and clusters display rollup values for all hosts in the container. Chart for a resource displays rollup values for all VMs registered as shared resources.
 
+Page updated 2026-07-31
 

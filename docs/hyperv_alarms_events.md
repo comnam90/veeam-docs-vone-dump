@@ -3,8 +3,8 @@ title: "Microsoft Hyper-V Alarms"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_alarms_events.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Microsoft Hyper-V Alarms
@@ -203,4 +203,5 @@ Any Hyper-V Object
 | Failed to verify VM configuration file | Based on event 20104 Microsoft-Windows-Hyper-V-VMMS. | Warning | Manual | The Hyper-V Virtual Machine Management service failed to verify that the configuration is registered for the virtual machine. |
 | VM configuration file is corrupt | Based on event 16310 Microsoft-Windows-Hyper-V-VMMS. | Error | Manual | Cannot load the virtual machine because the configuration is corrupt. |
 
+Page updated 2026-07-31
 
