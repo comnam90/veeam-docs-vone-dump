@@ -3,8 +3,8 @@ title: "Virtual Machines"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_jobs.html"
-last_updated: "8/7/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Virtual Machines
@@ -33,7 +33,7 @@ For details, see [Accessing Veeam ONE Components](access.md).
 
 * To show or hide jobs that ended with a specific status, use the status buttons at the top of the list (Show all jobs, Show failed jobs, Show jobs with warnings, Show successful jobs, Show running jobs or Show jobs with no status).
 * To show or hide jobs of a specific type, use the job type filter at the top of the list (Backup, Replication, Backup copy, Backup to tape, CDP policy, VM copy, SureBackup, Microsoft SQL database transaction log backup, Oracle Database transaction log backup, PostgreSQL transaction log backup, or Snapshot-only).
-* To show or hide jobs that protect VMs residing on a specific hypervisor, use the platform filter at the top of the list (VMware vSphere, VMware Cloud Director, Microsoft Hyper-V, Nutanix AHV, oVirt KVM and ProxMox VE).
+* To show or hide jobs that protect VMs residing on a specific hypervisor, use the platform filter at the top of the list (VMware vSphere, VMware Cloud Director, Microsoft Hyper-V, Nutanix AHV, oVirt KVM and ProxMox VE, Scale Computing, HPE Morpheus, Sangfor, Xen).
 * To set the time interval when jobs ran for the last time, use the Filter jobs by time period button. Release the button to discard the time period filter.
 * To find jobs by name, use the search field at the top of the list.
 
@@ -117,4 +117,5 @@ Click the server name link to drill down to the list of alarms for a chosen back
 | Note: |
 | The “No info” label indicates that no information is available for the job because data has not been collected yet. |
 
+Page updated 2026-07-30
 
