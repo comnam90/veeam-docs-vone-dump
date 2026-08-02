@@ -3,8 +3,8 @@ title: "Step 3. Assign Permissions on Infrastructure Inventory Objects"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/assign_permissions.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Step 3. Assign Permissions on Infrastructure Inventory Objects
@@ -43,4 +43,5 @@ VMware Cloud Director Permissions
 | vCloud Director (root) | System Administrator |
 | Organization | Console access only |
 
+Page updated 2026-07-31
 
