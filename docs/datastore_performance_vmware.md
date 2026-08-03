@@ -3,8 +3,8 @@ title: "Datastore Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/datastore_performance_vmware.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Datastore Performance
@@ -32,4 +32,5 @@ Use Case
 
 The report helps you assess current load on your datastores and identify performance issues, such as excessive bus resets or high command aborts rates.
 
+Page updated 2026-08-03
 

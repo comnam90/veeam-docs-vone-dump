@@ -3,8 +3,8 @@ title: "Customizing Microsoft Hyper-V Performance Charts"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/customize_hyperv_charts.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Customizing Microsoft Hyper-V Performance Charts
@@ -18,4 +18,5 @@ In This Section
 * [Selecting Chart Views and Performance Counters](select_hyperv_counters.md)
 * [Selecting Time Interval](select_hyperv_time_interval.md)
 
+Page updated 2026-08-03
 
