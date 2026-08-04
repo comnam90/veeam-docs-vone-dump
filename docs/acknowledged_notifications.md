@@ -3,8 +3,8 @@ title: "Notifications on Acknowledged Alarms"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/acknowledged_notifications.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Notifications on Acknowledged Alarms
@@ -30,4 +30,5 @@ The following image shows an example of a notification about acknowledged alarms
 
 [![Notification on Acknowledged Alarms](images/acknowledged.webp)](images/acknowledged.webp "Notification on Acknowledged Alarms")
 
+Page updated 2026-08-03
 

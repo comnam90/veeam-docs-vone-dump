@@ -3,8 +3,8 @@ title: "Veeam Threat Center"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/data_protection_platform.html"
-last_updated: "1/29/2026"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Veeam Threat Center
@@ -26,12 +26,12 @@ You can configure the information displayed in the scorecard in the settings pan
 
 You can also configure and generate reports directly from the Platform Security Compliance, Data Protection Status and Backup Immutability Status and Data Recovery Health mini-widgets. Click the relevant report icon to the right of each section. For details on predefined Veeam ONE reports, see [Predefined Veeam ONE Reports](predefined_reports.md).
 
-If you have configured integration with Coveware, the Data Platform Scorecard widget contains a Threats mini-widget that displays the number of potentially detected malware incidents depending on detected severity (low, medium, high, critical). To review incidents in the Coveware portal, click Triage.  For details on Coveware integration, see [Security](credentials_manager.md#coveware_integration).
+If you have configured integration with Coveware, the Data Platform Scorecard widget contains a Threats mini-widget that displays the number of potentially detected malware incidents depending on detected severity (low, medium, high, critical). To review incidents in the Coveware portal, click Triage. For details on Coveware integration, see [Security](credentials_manager.md#coveware_integration).
 
 |  |
 | --- |
 | Note: |
-| * To analyze data about protected VMs in the Data Protection Status mini-widget, you must connect the target virtualization servers to Veeam ONE. For details on, see [Add Data Source](connecting_servers.md). * This widget inherits exclusions along with virtualization servers. Virtual Machines are hidden if they are excluded from the Monitoring Rules set in Veeam ONE Client. |
+| * To analyze data about protected VMs in the Data Protection Status mini-widget, you must connect the target virtualization servers to Veeam ONE. For details on, see [Adding Data Source](connecting_servers.md). * This widget inherits exclusions along with virtualization servers. Virtual Machines are hidden if they are excluded from the Monitoring Rules set in Veeam ONE Client. |
 
 To configure the Data Platform Scorecard widget:
 
@@ -105,7 +105,7 @@ This widget shows all objects in your infrastructure that have missed their defi
 |  |
 | --- |
 | Note: |
-| * To analyze data about protected VMs in the RPO Anomalies widget, you must connect the target virtualization servers to Veeam ONE. For details on, see [Add Data Source](connecting_servers.md). * This widget inherits exclusions along with virtualization servers. Virtual machines are also hidden if they are excluded by Monitoring Rules in Veeam ONE Client and have no restore points. |
+| * To analyze data about protected VMs in the RPO Anomalies widget, you must connect the target virtualization servers to Veeam ONE. For details on, see [Adding Data Source](connecting_servers.md). * This widget inherits exclusions along with virtualization servers. Virtual machines are also hidden if they are excluded by Monitoring Rules in Veeam ONE Client and have no restore points. |
 
 To configure the RPO Anomalies widget:
 
@@ -142,4 +142,5 @@ To configure the SLA Compliance Overview widget:
 
 1. Click Finish to save the changes.
 
+Page updated 2026-08-03
 
