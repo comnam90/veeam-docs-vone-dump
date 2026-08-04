@@ -3,8 +3,8 @@ title: "Object Properties"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/properties.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Object Properties
@@ -165,4 +165,5 @@ Enterprise Application
 | Name | Text (string) | Returns a name of a server that runs an application. |
 | ProtectionGroup | Text (string) | Returns a name of a protection group for an applications. |
 
+Page updated 2026-08-03
 
