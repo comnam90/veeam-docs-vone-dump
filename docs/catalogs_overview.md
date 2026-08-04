@@ -3,8 +3,8 @@ title: "Catalogs Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/catalogs_overview.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Catalogs Overview
@@ -28,4 +28,5 @@ Use Case
 
 Outdated catalog data consume valuable cloud resources. Use this report to review content of VMware Cloud Director catalogs and to track the amount of space consumed by catalog content across organizations.
 
+Page updated 2026-08-03
 
