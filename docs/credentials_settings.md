@@ -3,8 +3,8 @@ title: "Guest OS Credentials"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/credentials_settings.html"
-last_updated: "4/3/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Guest OS Credentials
@@ -32,7 +32,7 @@ In the SSH Port field, change the default connection port if required.
 
 To disable fingerprint validation for Linux VMs, select Skip fingerprint check.
 
-To access credentials manager, click the Manage Credentials link. For details on working with credentials, see [Credentials Manager](credentials_manager.md).
+To access credentials manager, click the Manage Credentials link. For details on working with credentials, see [Security](credentials_manager.md).
 
 [![Credentials Management Settings](images/credentials_settings.webp)](images/credentials_settings.webp "Credentials Management Settings")
 
@@ -41,4 +41,5 @@ To access credentials manager, click the Manage Credentials link. For details on
 | Tip: |
 | You can set guest OS credentials on individual VMs. To do this, right-click a VM and choose Guest OS Credentials from the shortcut menu. |
 
+Page updated 2026-08-03
 
