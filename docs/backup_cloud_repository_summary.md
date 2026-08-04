@@ -3,8 +3,8 @@ title: "Cloud Repository Summary"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_cloud_repository_summary.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Cloud Repository Summary
@@ -41,4 +41,5 @@ VM and Computer Backups
 
 The chart shows the number of VMs and computers whose backups were written to the repository during the past period.
 
+Page updated 2026-08-03
 
