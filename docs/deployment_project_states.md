@@ -3,8 +3,8 @@ title: "Deployment Project Statuses"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/deployment_project_states.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Deployment Project Statuses
@@ -38,4 +38,5 @@ Remediation action is to view the project report and change the project settings
 
 The status indicates that the project has completed successfully and its requirements are fully met. There are enough resources to accomplish the planned deployment and maintain an acceptable level of resource utilization.
 
+Page updated 2026-08-05
 
