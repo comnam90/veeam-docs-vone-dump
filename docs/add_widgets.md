@@ -3,8 +3,8 @@ title: "Step 2. Add Widgets to Dashboard"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/add_widgets.html"
-last_updated: "6/27/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Step 2. Add Widgets to Dashboard
@@ -27,7 +27,7 @@ Veeam ONE Web Client will launch the Add Widget wizard.
 
 [![Choose Widget](images/add_dashboard_widget.webp)](images/add_dashboard_widget.webp "Choose Widget")
 
-1. At the Settings step of the wizard, define widget options, such as the scope, time interval, number of objects to display in the widget and so on.
+1. At the Settings step of the wizard, define widget options, such as the scope, jobs, time interval, number of objects to display in the widget and so on.
 
 Availability of widget options depends on the type of the selected widget.
 
@@ -39,4 +39,5 @@ Availability of widget options depends on the type of the selected widget.
 
 1. Repeat steps 4–8 for each new widget you want to add to the dashboard.
 
+Page updated 2026-08-05
 
