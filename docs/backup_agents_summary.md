@@ -3,8 +3,8 @@ title: "Computers Summary"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_agents_summary.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Computers Summary
@@ -50,4 +50,5 @@ The table provides details on computers running Veeam Agent for Microsoft Window
 * Last Backup State — the latest status of a backup job (Success, Warning, Failed, Running, No Info).
 * Last Successful Backup — date and time when the latest successful backup was created for the computer.
 
+Page updated 2026-08-05
 
