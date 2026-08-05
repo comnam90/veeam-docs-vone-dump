@@ -3,8 +3,8 @@ title: "Heatmap"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/heatmap_dashboard.html"
-last_updated: "8/7/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Heatmap
@@ -65,4 +65,5 @@ To open the section with detailed information about repository settings and acti
 
 Color of the section is determined by the number of processed concurrent tasks relative to the maximum number of concurrent tasks: green color means none or few concurrent tasks were processed while red color means the number of concurrent tasks is close to or reaches maximum.
 
+Page updated 2026-08-05
 

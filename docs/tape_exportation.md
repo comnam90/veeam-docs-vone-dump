@@ -3,8 +3,8 @@ title: "Exported Tapes"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/tape_exportation.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Exported Tapes
@@ -24,11 +24,11 @@ You can specify the following report parameters:
 * Tape libraries: defines tape libraries to include in the report.
 * Jobs: defines a list of tape jobs to analyze in the report.
 
-[![Tape Exportation Report](images/tape_exportation_01.webp)](images/tape_exportation_01.webp "Tape Exportation Report")
-[![Tape Exportation Report](images/tape_exportation_02.webp)](images/tape_exportation_02.webp "Tape Exportation Report")
+[View Report Example](./reports/Exported%20Tapes.pdf)
 
 Use Case
 
 The report allows you to trace tapes exported from tape libraries. You can use this report to find the necessary backup files on tape.
 
+Page updated 2026-07-22
 

@@ -3,8 +3,8 @@ title: "Scheduling"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/schedule.html"
-last_updated: "9/25/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Scheduling
@@ -56,6 +56,8 @@ If you want to send objects by email, make sure you specified SMTP settings in V
 With this option selected, the Add Schedule wizard will include an additional Target Folder step.
 
 * Select the Run a script after report generation check box to run a script file after generation is complete.
+* In the Format Type section, select the Report format (PDF or CSV), Page format, and Page orientation (portrait or landscape) for the report. If required, select the Use actual width check box.
+
 * [For the Report folder and Report object types] From the Report format drop-down list, select the format in which the report must be saved. You can choose one of the following formats: PDF, MS Word, MS Excel, CSV, XML.
 
 Reports generated in Veeam ONE version 13's new report engine are only generated in PDF and CSV.
@@ -105,4 +107,5 @@ The path must refer to an existing folder. Veeam ONE will check if the specified
 
 If you want to configure multiple schedules, repeat steps 4–10 for each new schedule.
 
+Page updated 2026-08-05
 

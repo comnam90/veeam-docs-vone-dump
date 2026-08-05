@@ -3,8 +3,8 @@ title: "Step 5. Configure Data Retention"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/configure_data_retention.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Step 5. Configure Data Retention
@@ -27,4 +27,5 @@ Specified retention values will be applied at the end of the current week. To ap
 
 [![Configure Data Retention](images/set_retention.webp)](images/set_retention.webp "Configure Data Retention")
 
+Page updated 2026-08-05
 
