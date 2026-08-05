@@ -3,8 +3,8 @@ title: "Actions Pane"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/actions_pane.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Actions Pane
@@ -20,4 +20,5 @@ In a similar manner, if you open the Alarm Management section and select the Ala
 
 [![Actions Pane](images/new_actions_pane_alarms.webp)](images/new_actions_pane_alarms.webp "Actions Pane")
 
+Page updated 2026-08-05
 
