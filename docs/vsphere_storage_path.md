@@ -3,8 +3,8 @@ title: "Storage Path Performance Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vsphere_storage_path.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Storage Path Performance Chart
@@ -31,4 +31,5 @@ Storage Path Performance Chart
 | Path Read Latency | Millisecond | Average amount of time taken for a read operation through a path. |
 | Path Write Latency | Millisecond | Average amount of time that a write operation through a path takes. |
 
+Page updated 2026-08-05
 
