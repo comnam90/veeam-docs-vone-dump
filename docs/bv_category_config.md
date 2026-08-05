@@ -3,8 +3,8 @@ title: "Category Configuration Summary"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/bv_category_config.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Category Configuration Summary
@@ -23,4 +23,5 @@ At the top of the dashboard, Veeam ONE Client displays information on the total 
 
 [![Business View category configuration summary](images/bv_category_config.webp)](images/bv_category_config.webp "Business View category configuration summary")
 
+Page updated 2026-08-05
 
