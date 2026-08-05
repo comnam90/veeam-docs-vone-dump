@@ -3,8 +3,8 @@ title: "CDP Proxy Servers Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/cdp_proxies_overview.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # CDP Proxy Servers Overview
@@ -44,4 +44,5 @@ The chart shows 5 CDP proxies that used the maximum amount of space allocated fo
 
 For every proxy, the chart shows the amount of free and used space allocated for cache storage. The chart can help you detect proxies that store the greatest amount of temporary cached data and estimate which proxies require allocating more storage space.
 
+Page updated 2026-08-05
 
