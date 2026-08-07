@@ -3,8 +3,8 @@ title: "VM Disk Performance Chart"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/hyperv_vm_disk.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # VM Disk Performance Chart
@@ -28,4 +28,5 @@ VM Disk Performance Chart
 | Reads/sec | Number | Total number of read operations issued per second to a virtual storage. |
 | Writes/sec | Number | Total number of write operations issued per second to a virtual storage. |
 
+Page updated 2026-08-07
 
