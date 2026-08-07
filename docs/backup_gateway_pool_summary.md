@@ -3,8 +3,8 @@ title: "Cloud Gateway Pool Summary"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_gateway_pool_summary.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Cloud Gateway Pool Summary
@@ -31,4 +31,5 @@ Data Transferred
 
 The chart shows the amount of backup data that the to the top cloud gateway and other gateways in a pool transferred to the cloud repository over the past period. The chart can help you measure the total amount of backup traffic coming through the cloud gateways in a pool.
 
+Page updated 2026-08-07
 

@@ -3,8 +3,8 @@ title: "Veeam Backup & Replication Alarms"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_alarms_events.html"
-last_updated: "12/11/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Veeam Backup & Replication Alarms
@@ -30,11 +30,11 @@ Veeam Backup & Replication Server
 | State of a backup policy session equals Failed. | Error |
 | Application backup policy state | State of a backup policy session equals Warning. | Warning | Automatic | One or more application databases failed to back up successfully. |
 | State of a backup policy session equals Failed. | Error |
-| Backup Copy Job exceeded data transfer window | Based on event | Error | Manual | One or more backup copy jobs exceeded defined window, and data transfer between source and target backup repositories has been stopped. |
+| Backup Copy Job exceeded data transfer window | Based on event VeeamBpCopyJobNetworkWindowExceededEvent. | Error | Manual | One or more backup copy jobs exceeded defined window, and data transfer between source and target backup repositories has been stopped. |
 | Backup Copy job state | State of an backup copy job equals Warning. | Warning | Automatic | One or more objects could not be successfully copied from the backup repository. |
 | State of an backup copy job equals Failed. | Error |
 | Backup Copy RPO | Restore point copy is missing according to job schedule. | Error | Automatic | One or more backups was not successfully copied to the secondary repository within the defined RPO interval. |
-| Backup Server Failed Logon Attempt | Based on event | Error | Manual | Authentication of Veeam Backup & Replication service failed during logon. |
+| Backup Server Failed Logon Attempt | Based on event 44001 Veeam MP | Error | Manual | Authentication of Veeam Backup & Replication service failed during logon. |
 | Based on event 44002 Veeam MP | Error | Manual |
 | Backup Server Successful Logon | Based on event 44000 Veeam MP | Information | Automatic | Successful authorization attempt completed on Veeam Backup & Replication. |
 | 44003 Veeam MP | Information | Automatic |
@@ -205,6 +205,7 @@ Enterprise Application
 
 Intelligent Diagnostics
 
-List of intelligent diagnostics alarms depends on the set of installed signatures. For details, see [Veeam Intelligent Diagnostics](https://helpcenter.veeam.com/docs/one/monitor/intelligent_diagnostics.html?ver=110).
+List of intelligent diagnostics alarms depends on the set of installed signatures. For details, see [Veeam Intelligent Diagnostics](intelligent_diagnostics.md).
 
+Page updated 2026-08-03
 
