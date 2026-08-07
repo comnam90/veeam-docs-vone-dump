@@ -3,8 +3,8 @@ title: "Step 7. Configure Alarm Suppression Settings"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/alarm_suppression.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Step 7. Configure Alarm Suppression Settings
@@ -50,4 +50,5 @@ You can add more than one record for one weekday. Note that the time intervals s
 
 [![Configure Alarm Suppression Settings](images/creating_alarm_alarm_suppression.webp)](images/creating_alarm_alarm_suppression.webp "Configure Alarm Suppression Settings")
 
+Page updated 2026-08-07
 
