@@ -3,8 +3,8 @@ title: "Multiple Organizations vDC Performance"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/organizations_vdc_performance.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Multiple Organizations vDC Performance
@@ -39,4 +39,5 @@ Use Case
 
 The report helps you identify organization virtual datacenters with performance issues, right-size resource provisioning and eliminate potential performance bottlenecks.
 
+Page updated 2026-08-07
 

@@ -3,8 +3,8 @@ title: "Changing Alarm Assignment Scope"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/change_alarm_assignment.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Changing Alarm Assignment Scope
@@ -22,4 +22,5 @@ In This Section
 * [Excluding Objects from Multiple Alarms](exclude_objects_from_alarms.md)
 * [Viewing Alarm Exclusions](view_exclusions.md)
 
+Page updated 2026-08-07
 

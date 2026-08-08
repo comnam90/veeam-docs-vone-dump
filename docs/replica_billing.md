@@ -3,8 +3,8 @@ title: "Replica Billing"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/replica_billing.html"
-last_updated: "9/17/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Replica Billing
@@ -14,6 +14,7 @@ This report helps you assess storage management costs for the backup infrastruct
 
 The report estimates storage resources required to store replicas. The cost can be calculated based on the price of 1 GB or TB of consumed storage space or on the price of a single VM replica. If there is a datastore or volume that is more expensive than other ones, an administrator can also specify the price adjustment factor (or the multiplier) that characterizes the premium charged for access to the datastore/volume.
 
+* The Total Overview section provides information on the number of datastores, backup servers, price replicas, total size of replica files and total costs in the selected currency.
 * The Details section provides information on each replication job, including the number of replicated up VMs, total amount of gigabytes transferred to the storage and total cost.
 
 Report Parameters
@@ -41,7 +42,7 @@ To edit price multipliers:
 | Note: |
 | Infrastructure topology view in Veeam ONE and Veeam Backup & Replication must match. Otherwise, Veeam ONE Web Client may show invalid data for Veeam Backup & Replication reports and dashboards. |
 
-[![Replica Billing Report](images/replica_billing.webp)](images/replica_billing.webp "Replica Billing Report")
+[View Report Example](./reports/Replica%20Billing.pdf)
 
 Use Case
 
@@ -49,4 +50,5 @@ This report allows managed storage providers (MSP) to generate billing statement
 
 The report can help administrators to evaluate efficiency of the storage resources utilization.
 
+Page updated 2026-07-30
 

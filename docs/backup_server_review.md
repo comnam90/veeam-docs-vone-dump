@@ -3,8 +3,8 @@ title: "Step 6. Review Connection Settings"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_server_review.html"
-last_updated: "9/12/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Step 6. Review Connection Settings
@@ -19,4 +19,5 @@ Keep in mind that it may take a while for Veeam ONE to collect and display confi
 * After you connect a Veeam Backup & Replication server, Veeam ONE imports all historical data that is stored on the backup server.
 * After you connect a Veeam Backup Enterprise Manager server, Veeam ONE automatically builds the hierarchy of all managed backup servers. Next, it connects managed backup servers and imports from these servers data on job sessions.
 
+Page updated 2026-05-13
 

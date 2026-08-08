@@ -1,34 +1,40 @@
 ---
-title: "Installing License"
+title: "Installing and Removing License"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/install_license.html"
-last_updated: "11/18/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
-# Installing License
+# Installing and Removing License
 
 
-Veeam ONE license is provided during the product installation.
+To use the full functionality of Veeam ONE, you must install a license file. You can provide the license file during product installation or install it later in Veeam ONE Web Client.
 
-If you do not provide a license file during installation, you can provide it later:
+Installing License
 
-1. Open Veeam ONE Client.
+1. Open Veeam ONE Web Client.
 
 For details, see [Accessing Veeam ONE Components](access.md).
 
-1. In the main menu, click License.
-2. In the License Information window, navigate to the License tab and click Install.
-3. Specify a path to the license file and click Open.
-4. Select the Update license automatically check box to enable automatic license update and usage reporting.
+1. At the top right corner of the Veeam ONE Web Client window, click Configuration.
+2. In the configuration menu on the left, click License Information.
+3. At the top of the License tab, click Install.
+4. Specify the path to the license file and click Open.
+5. Click Save to apply the changes.
 
-Automatic usage reporting implies sending license usage statistics to Veeam. For details, see [License Usage Statistics](automatic_usage_logging.md).
+Removing License
 
-1. Select the the Receive proactive support check box to send infrastructure statistics to Veeam.
+You can remove the installed license from Veeam ONE when you no longer need it. After you remove the license, Veeam ONE switches to the Community (free) edition.
 
-Proactive support sends anonymized information such as infrastructure details, number of jobs, and job types to Veeam support servers automatically. This allows Veeam to better analyze and understand your individual support needs.
+To remove the license:
 
-1. In the License Information window, click Save.
+1. Open Veeam ONE Web Client.
+2. At the top right corner of the Veeam ONE Web Client window, click Configuration.
+3. In the configuration menu on the left, click License Information.
+4. At the top of the License tab, click Remove.
+5. In the confirmation dialog, click Yes.
 
+Page updated 2026-07-15
 

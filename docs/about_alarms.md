@@ -3,8 +3,8 @@ title: "About Alarms"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/about_alarms.html"
-last_updated: "1/8/2024"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # About Alarms
@@ -21,6 +21,7 @@ In This Section
 * [Alarm Notification Options](notification.md)
 * [Alarm Remediation Actions](remediation_actions.md)
 * [Advanced Alarm Options](advanced_options.md)
-* [Alarm Reports](reports.md)
+* [Reports](reports.md)
 
+Page updated 2026-08-03
 

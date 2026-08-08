@@ -3,8 +3,8 @@ title: "Cloud Connect Inventory"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/cloud_inventory.html"
-last_updated: "4/20/2026"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Cloud Connect Inventory
@@ -42,7 +42,7 @@ You can specify the following report parameters:
 |  |
 | --- |
 | Note: |
-| * Infrastructure topology view in Veeam ONE and Veeam Backup & Replication must match. Otherwise, Veeam ONE Web Client may show invalid data for Veeam Backup & Replication reports and dashboards. * To analyze data about replicated VMs in the report, you must connect the target virtualization servers to Veeam ONE. For details on, see [Add Data Source](connecting_servers.md). |
+| * Infrastructure topology view in Veeam ONE and Veeam Backup & Replication must match. Otherwise, Veeam ONE Web Client may show invalid data for Veeam Backup & Replication reports and dashboards. * To analyze data about replicated VMs in the report, you must connect the target virtualization servers to Veeam ONE. For details on, see [Adding Data Source](connecting_servers.md). |
 
 [View Report Example](./reports/Cloud%20Connect%20Inventory.pdf)
 
@@ -50,4 +50,5 @@ Use Case
 
 This report displays inventory information for the Veeam Backup & Replication and Veeam Cloud Connect infrastructure components including licensing details.
 
+Page updated 2026-08-03
 

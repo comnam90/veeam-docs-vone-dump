@@ -3,8 +3,8 @@ title: "Navigating Veeam ONE Web Client"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/navigate_reporter.html"
-last_updated: "10/22/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Navigating Veeam ONE Web Client
@@ -12,7 +12,7 @@ product_version: "13.0.1.6168"
 
 Veeam ONE Web Client interface includes the following elements:
 
-* [Threat Center](data_protection_platform.md)
+* [Veeam Threat Center](data_protection_platform.md)
 * [Dashboards](#dashboards)
 * [Jobs Calendar](job_calendar.md)
 * [Report Catalog](#report_catalog)
@@ -57,7 +57,7 @@ For details, see [Deployment Projects](deployment_projects.md).
 
 Language
 
-The language button allows you to select the display language for Veeam ONE Web Client (English, Japanese).
+The language button allows you to select the display language for Veeam ONE Web Client (English, Japanese, German, French).
 
 Downloads
 
@@ -83,4 +83,5 @@ For details, see [Configuring Veeam ONE](configure_veeam_one.md).
 
 [![Configuration View](images/configuration.webp)](images/configuration.webp "Configuration View")
 
+Page updated 2026-08-07
 

@@ -3,8 +3,8 @@ title: "Step 8. Choose Reporting Database"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/upgrade_reporting_database.html"
-last_updated: "3/20/2026"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Step 8. Choose Reporting Database
@@ -25,8 +25,9 @@ If this option is selected, the setup will install PostgreSQL locally, on the co
 |  |
 | --- |
 | Note |
-| Starting with Veeam ONE version 13, a PostgreSQL instance is required in addition to the primary Microsoft SQL Server instance. You can use an existing PostgreSQL instance that meets the Veeam ONE system requirements or install a new instance. |
+| * Starting with Veeam ONE version 13, a PostgreSQL instance is required in addition to the primary Microsoft SQL Server instance. You can use an existing PostgreSQL instance that meets the Veeam ONE system requirements or install a new instance. * After you upgrade from any version 13 build to version 13.1, Veeam ONE recollects the data in the report database (booster). |
 
 [![Select Postgres Database](images/typical_installation_postgres.webp)](images/typical_installation_postgres.webp "Select Postgres Database")
 
+Page updated 2026-07-13
 
