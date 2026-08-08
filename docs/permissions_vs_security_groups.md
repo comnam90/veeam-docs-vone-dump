@@ -3,8 +3,8 @@ title: "Permissions and Security Groups"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/permissions_vs_security_groups.html"
-last_updated: "9/23/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Permissions and Security Groups
@@ -48,17 +48,17 @@ Veeam ONE Web Client
 
 Veeam ONE Web Client
 
-| Functionality | Veeam ONE Administrator | Veeam ONE Power User | Veeam ONE Read Only User |
-| Threat Center | Full | Full | Read |
-| Dashboards | Full | Full | Read |
-| Jobs Calendar | Full | Full | N/A |
-| Reports | Full | Full | Read |
-| Alarms Overview | Full | Read | Read |
-| Scheduling | Full | Limited (Choosing credentials for scheduling is unavailable) | N/A |
-| Deployment Projects | Full | Full | Read |
-| Veeam Intelligence | Full | N/A | N/A |
-| Notification Bell | Full | Full | Full |
-| Configuration | Full | N/A | N/A |
+| Functionality | Veeam ONE Administrator | Veeam ONE Power User | Veeam ONE Backup Administrator | Veeam ONE Read Only User |
+| Threat Center | Full | Full | Read | Read |
+| Dashboards | Full | Full | Read | Read |
+| Jobs Calendar | Full | Full | N/A | N/A |
+| Reports | Full | Full | Read | Read |
+| Alarms Overview | Full | Read | Read | Read |
+| Scheduling | Full | Limited (Choosing credentials for scheduling is unavailable) | N/A | N/A |
+| Deployment Projects | Full | Full | Read | Read |
+| Veeam Intelligence | Full | N/A | N/A | N/A |
+| Notification Bell | Full | Full | Full | Full |
+| Configuration | Full | N/A | N/A | N/A |
 
 Veeam ONE Client
 
@@ -75,4 +75,5 @@ Veeam ONE Client
 | Notification Settings | Full | N/A | N/A |
 | Credentials Manager | Full | N/A | N/A |
 
+Page updated 2026-07-15
 
