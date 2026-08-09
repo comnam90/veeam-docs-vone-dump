@@ -3,8 +3,8 @@ title: "Viewing Reports"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/view_reports.html"
-last_updated: "11/13/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Viewing Reports
@@ -45,7 +45,7 @@ Veeam ONE reports vary depending on the type and input parameters. They can be s
 
 The navigation menu at the top of a report allows you to navigate the report and can include the following controls:
 
-For reports supported by Veeam ONE version 13's new reporting engine (Veeam Backup & Replication and Veeam Backup for Microsoft 365 reports):
+For reports supported by Veeam ONE version 13 new reporting engine (Veeam Backup & Replication and Veeam Backup for Microsoft 365 reports):
 
 * Summary button — shows a summary of the report's details and associated charts and tables.
 * Report Data button — shows additional tables and details of the report for further analysis.
@@ -86,4 +86,5 @@ Related Topics
 * [Saving Reports](save_reports.md)
 * [Scheduling Reports](schedule_reports.md)
 
+Page updated 2026-07-09
 
