@@ -3,8 +3,8 @@ title: "Step 3. Specify Server Name and Role"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_server_name.html"
-last_updated: "3/13/2026"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Step 3. Specify Server Name and Role
@@ -21,6 +21,7 @@ If you are adding a High Availability cluster, use the IP address or hostname of
 If you choose to add Veeam Backup Enterprise Manager, Veeam ONE will automatically connect all Veeam Backup & Replication servers added to the Veeam Backup Enterprise Manager.
 
 1. If you want to enable Veeam ONE dashboard and report integration in Veeam Backup & Replication, select the Allow Veeam Backup & Replication to display analytics data check box. For details, see [Veeam Backup & Replication Web UI](https://helpcenter.veeam.com/docs/vbr/userguide/vbr_web_console.html?ver=13#analytics).
+2. If you want to define a port other than the default 443, enter the port number.
 
 |  |
 | --- |
@@ -29,4 +30,5 @@ If you choose to add Veeam Backup Enterprise Manager, Veeam ONE will automatical
 
 [![Choose Server Role](images/connect_backup_choose_servet_role.webp)](images/connect_backup_choose_servet_role.webp "Choose Server Role")
 
+Page updated 2026-05-13
 
