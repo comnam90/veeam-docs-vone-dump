@@ -3,8 +3,8 @@ title: "Toolbar and Main Menu"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/toolbar.html"
-last_updated: "9/19/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Toolbar and Main Menu
@@ -27,7 +27,7 @@ Veeam ONE Client main menu provides access to the following commands and feature
 
 * Add Server — connect a new virtualization server, VMware Cloud Director, or Veeam Backup & Replication server. To perform this command, you can also press [CTRL+I] on the keyboard.
 
-For details on connecting servers, see [Add Data Source](connecting_servers.md).
+For details on connecting servers, see [Adding Data Source](connecting_servers.md).
 
 * Notifications — open the Notification Settings wizard.
 
@@ -35,7 +35,7 @@ For details on configuring notifications, see [Configuring Notification Settings
 
 * Reports — create a report for an infrastructure object selected in the inventory pane.
 
-For details on creating reports, see [View Reports](view_reports.md).
+For details on creating reports, see [Viewing Reports](view_reports.md).
 
 * Alarm Modeling — forecast the number of alarms that will be triggered for an infrastructure object selected in the inventory pane.
 
@@ -47,7 +47,7 @@ For details on customizing settings, see [Configuring Veeam ONE](configure_veeam
 
 * Credentials Manager — view and manage credentials records.
 
-For details on working with credentials, see [Credentials Manager](credentials_manager.md).
+For details on working with credentials, see [Security](credentials_manager.md).
 
 * License — view license information, change and update the license file, and send license usage reports.
 
@@ -57,4 +57,5 @@ For details on Veeam ONE licensing, see [Licensing Veeam ONE](licensing.md).
 
 [![Toolbar](images/toolbar.webp)](images/toolbar.webp "Toolbar")
 
+Page updated 2026-08-03
 
