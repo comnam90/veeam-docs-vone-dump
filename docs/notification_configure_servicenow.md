@@ -3,8 +3,8 @@ title: "Step 5. Configure ServiceNow Integration"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/notification_configure_servicenow.html"
-last_updated: "8/7/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Step 5. Configure ServiceNow Integration
@@ -46,4 +46,5 @@ If you select the Enable ServiceNow integration check box and do not test the co
 
 For details on alarm notification settings, see [Configuring Alarm Notifications](configure_alarm_notification.md).
 
+Page updated 2026-08-03
 
