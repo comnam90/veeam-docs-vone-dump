@@ -3,8 +3,8 @@ title: "Veeam Intelligent Diagnostics"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/intelligent_diagnostics.html"
-last_updated: "11/25/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Veeam Intelligent Diagnostics
@@ -63,7 +63,7 @@ To configure Veeam Intelligent Diagnostics, perform the following steps:
 
 1. Install Veeam Analytics service on Veeam Backup & Replication servers connected to Veeam ONE and configure agent settings.
 
-For details, see [Managing Veeam ONE Agents](manage_one_agents.md).
+For details, see [Managing Veeam Analytics Service](manage_one_agents.md).
 
 1. Obtain an up-to-date version of signatures.
 
@@ -73,4 +73,5 @@ For details, see [Managing Signatures](manage_support_signatures.md).
 
 For details, see [Performing Log Analysis](vbr_log_analysis.md).
 
+Page updated 2026-08-03
 
