@@ -3,8 +3,8 @@ title: "Veeam Analytics Service"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/veeam_analytics_service.html"
-last_updated: "4/29/2026"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Veeam Analytics Service
@@ -53,7 +53,7 @@ To find the servers on which Veeam Analytics service is not installed, you can u
 1. In the Veeam Analytics service menu, select Management and click Install.
 2. Specify credentials to install Veeam Analytics service.
 
-For details on account permissions, see [Veeam Analytics Service Permissions](connection_to_backup_servers.md#agent).
+For details on account permissions, see [Veeam Analytics Service deployment credentials](connection_to_backup_servers.md#agent).
 
 1. [For Microsoft Windows servers] Specify credentials to run Veeam Analytics service.
 
@@ -181,4 +181,5 @@ Additionally you can press and hold the [CTRL] or [SHIFT] key to select multiple
 
 The logs package will be saved to the default download folder on your local machine.
 
+Page updated 2026-08-03
 
