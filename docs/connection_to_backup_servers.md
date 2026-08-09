@@ -3,8 +3,8 @@ title: "Connection to Veeam Backup & Replication Servers"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/connection_to_backup_servers.html"
-last_updated: "2/20/2026"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Connection to Veeam Backup & Replication Servers
@@ -20,7 +20,7 @@ To connect Veeam Backup & Replication servers you must specify:
 
 1. Backup Monitoring credentials:
 
-* This account must have the Veeam Backup Administrator role assigned.
+* This account must have the Backup Administrator role assigned.
 
 This role must be assigned to the account on the machine that runs Veeam Backup & Replication.
 
@@ -51,13 +51,14 @@ To connect Veeam Backup & Replication servers you must specify:
 
 * Veeam Analytics service deployment credentials.
 
-This account must have the Veeam Backup Administrator role assigned.
+This account must have the Backup Administrator role assigned.
 
 This role must be assigned to the account on the machine that runs Veeam Backup & Replication.
 
 |  |
 | --- |
 | Note: |
-| You must use the account with local Administrator permissions in the following cases:   * When using a user account other than the default veeamadmin, it is recommended to assign the Service Account role in Veeam Host Management and also Veeam Backup Administrator permissions in Veeam Backup & Replication. For details on roles and permissions, see [Configuring Users](https://helpcenter.veeam.com/docs/vbr/userguide/hmc_configure_users.html) and [Configuring Roles](https://helpcenter.veeam.com/docs/vbr/userguide/configure_roles.html) in the Veeam Backup & Replication User Guide.   For newly created local users in Veeam Host Management with a role other than Service Account, the user must first log in to the Veeam Software Appliance Web Client to change the password. Otherwise, an error occurs when connecting to the backup server to deploy Veeam Analytics service. |
+| You must use the account with local Administrator permissions in the following cases:   * When using a user account other than the default veeamadmin, it is recommended to assign the Service Account role in Veeam Host Management and also Backup Administrator permissions in Veeam Backup & Replication. For details on roles and permissions, see [Configuring Users](https://helpcenter.veeam.com/docs/vbr/userguide/hmc_configure_users.html) and [Configuring Roles](https://helpcenter.veeam.com/docs/vbr/userguide/configure_roles.html) in the Veeam Backup & Replication User Guide.   For newly created local users in Veeam Host Management with a role other than Service Account, the user must first log in to the Veeam Software Appliance Web Client to change the password. Otherwise, an error occurs when connecting to the backup server to deploy Veeam Analytics service. |
 
+Page updated 2026-07-31
 
