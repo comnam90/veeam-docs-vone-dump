@@ -3,8 +3,8 @@ title: "Scalability"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/utility_deployment.html"
-last_updated: "3/18/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Scalability
@@ -17,9 +17,13 @@ This section includes the following tabs:
 * [Data Collection Mode](utility_deployment.md#mode)
 * [Performance Metrics](utility_deployment.md#metrics)
 
-Data Collection Mode
+Data Collection ModeVeeam Cloud Connect
 
 On the Data Collection Mode tab, you can choose Veeam ONE data collection mode. The data collection mode determines what metrics Veeam ONE must collect, and specifies the product configuration.
+
+The selected mode also controls whether Veeam ONE collects performance metrics from separately added (external) Veeam Backup & Replication infrastructure components (backup proxies and backup repositories deployed on their own hosts).
+
+For details on which modes collect these metrics, see [Step 12. Choose Data Collection Mode](typical_choose_collection_mode.md).
 
 Data collection mode is specified during Veeam ONE installation. In some cases, you may need to change the data collection mode — for example, if you need to change the level of data granularity.
 
@@ -51,4 +55,5 @@ To choose performance metrics that must be collected:
 
 Click Defaults to restore Veeam ONE default settings for performance metrics, and select only those metrics that must be collected in accordance with the chosen data collection mode.
 
+Page updated 2026-07-21
 
