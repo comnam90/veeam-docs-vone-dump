@@ -3,8 +3,8 @@ title: "Scheduling Reports"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/schedule_reports.html"
-last_updated: "9/22/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Scheduling Reports
@@ -50,4 +50,5 @@ In This Section
 * [Managing Report Schedules](manage_report_schedules.md)
 * [Viewing Scheduled Report Delivery Results](view_report_delivery_results.md)
 
+Page updated 2026-07-16
 

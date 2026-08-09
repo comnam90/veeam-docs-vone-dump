@@ -3,8 +3,8 @@ title: "Task Sessions"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/task_sessions.html"
-last_updated: "9/30/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Task Sessions
@@ -26,9 +26,9 @@ For details on accessing Veeam ONE components, see [Veeam ONE Web Client](access
 
 To easily find the necessary session, you can apply the following filters:
 
-* Filter by name — search the list of sessions by name.
+* Search by name — search the list of sessions by name.
 * Status — limit the list of sessions by status (Success, Warning, Failed, Processing, Stopped).
-* Filter — filter the list of sessions by session type including:
+* Task Type — filter the list of sessions by session type including:
 
 * Object properties data collection
 
@@ -45,9 +45,10 @@ Related Topics
 
 * [Viewing Data Collection Session Details](view_collection_details.md)
 * [Business View](bv.md)
-* [Scheduling Reports](schedule_dashboards.md)
+* [Scheduling Reports](schedule_reports.md)
 * [Scheduling Dashboards](schedule_dashboards.md)
 * [Scheduling Delivery for Multiple Reports](schedule_multiple_reports.md)
 * [Calculating Deployment Projects](build_deployment_projects.md)
 
+Page updated 2026-08-03
 

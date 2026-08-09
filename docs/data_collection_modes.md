@@ -3,8 +3,8 @@ title: "Data Collection Modes"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/data_collection_modes.html"
-last_updated: "3/18/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Data Collection Modes
@@ -12,7 +12,7 @@ product_version: "13.0.1.6168"
 
 Data collection mode determines what metrics Veeam ONE will collect, and specifies the product configuration in a number of areas. Choosing an appropriate data collection mode allows you to optimize monitoring and reporting performance and improve user experience in Veeam ONE.
 
-The [Data Collection Mode](typical_choose_collection_mode.md) is configured during deployment and can be modified after deployment using the [Veeam ONE Settings Utility](utility_deployment.md).
+The [Data Collection Mode](typical_choose_collection_mode.md) is configured during deployment and can be modified after deployment using the [Veeam ONE Settings Utility](appendix.md).
 
 Settings
 
@@ -22,12 +22,12 @@ Settings
 
 | Configuration Option | Description | Veeam backup data and virtual infrastructure | Veeam backup data and large-scale virtual infrastructure | Veeam Backup Data Only |
 | VMware real-time performance | Timeout for collecting VMware vSphere real-time performance data. | 30 minutes | 30 minutes | N/A |
-| Sampling renewal interval for real-time counters. | 20 seconds | 300 seconds | N/A |
+| Sampling renewal interval for real-time counters. | 20 seconds | 300 seconds (5 minutes) | N/A |
 | VMware historical performance | Sampling renewal interval for historical counters (older than one hour). | 5 minutes | 30 minutes | 5 minutes |
 | Sampling renewal interval for historical counters (older than one week). | 2 hours | 2 hours | 2 hours |
 | Min tree check interval | Updating the object inventory tree in Veeam ONE Client. | 10 seconds | 1 minute | 10 seconds |
 | Page update delay | Loading data after choosing an object in the object inventory tree in Veeam ONE Client. | 0.5 second | 1.5 second | 0.5 second |
-| Get VM snapshot timeout | Timeout for collecting data about VM snapshot files from datastores. | 900 seconds | 3600 seconds (1 hour) | 900 seconds (15 minutes) |
+| Get VM snapshot timeout | Timeout for collecting data about VM snapshot files from datastores. | 900 seconds (15 minutes) | 3600 seconds (1 hour) | 900 seconds (15 minutes) |
 | Virtual machines files data collection | Collecting information about VM files (for the Active Snapshots and Garbage Files reports). | Yes | No | No |
 | Hyper-V real-time performance | Timeout for collecting Microsoft Hyper-V real-time performance data. | 30 minutes | 30 minutes | N/A |
 | Sampling renewal interval for real-time counters. | 60 seconds | 300 seconds (5 minutes) | N/A |
@@ -335,4 +335,5 @@ Collected Performance Metrics
 | Disk/Share: SMB Share Error Count/min | Hyper-V Share | Yes | No | No |
 | Disk/Share: SMB Share Flush Count/min | Hyper-V Share | Yes | No | No |
 
+Page updated 2026-08-03
 

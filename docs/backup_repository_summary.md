@@ -3,8 +3,8 @@ title: "Backup Repository Summary"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/backup_repository_summary.html"
-last_updated: "5/12/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Backup Repository Summary
@@ -16,6 +16,11 @@ Veeam ONE Client offers the following types of summary dashboards for backup rep
 * [Scale-out backup repository summary](backup_repository_summary.md#scaleout)
 * [Object storage repository summary](backup_repository_summary.md#object)
 * [External repository summary](backup_repository_summary.md#external)
+
+|  |
+| --- |
+| Note |
+| * For newly added repositories with a short performance history, the Out of space forecast may have a higher error margin because the trend is calculated from a limited number of historical data points. * Out of space values may differ from the Capacity Planning for Backup Repositories report due to differences in performance data granularity, aggregation and time window. For deeper and more detailed capacity analysis refer to the data in the Days Left column for a more accurate result. * The Veeam ONE Client forecast depends on the configured performance data retention. Changing the retention settings can affect the trend window and, therefore, the resulting value of the Out of space estimation. |
 
 Regular Backup Repository Summary
 
@@ -63,7 +68,7 @@ The chart can help you reveal possible resource bottlenecks on the repository si
 
 Scale-Out Backup Repository Summary
 
-The scale-out repository summary dashboard provides overview details, capacity planning information and performance analysis for a chosen scale-out backup repository for the last week or month. You can select underlying scale-out repository extents to see details of performance, capacity and archive tiers. For details on scale-out repository configuration, see section [Scale-Out Backup Repository](https://helpcenter.veeam.com/docs/backup/vsphere/backup_repository_sobr.html?ver=120) of the Veeam Backup & Replication User Guide.
+The scale-out repository summary dashboard provides overview details, capacity planning information and performance analysis for a chosen scale-out backup repository for the last week or month. You can select underlying scale-out repository extents to see details of performance, capacity and archive tiers. For details on scale-out repository configuration, see section [Scale-Out Backup Repository](https://helpcenter.veeam.com/docs/backup/vsphere/backup_repository_sobr.html) of the Veeam Backup & Replication User Guide.
 
 [![Scale-Out Backup Repository Summary](images/sobr_repository_summary.webp)](images/sobr_repository_summary.webp "Scale-Out Backup Repository Summary")
 
@@ -174,4 +179,5 @@ The chart shows the amount of storage space used by the files on the repository.
 
 If the space consumed on the repository is running high, you may need to free up storage space on the repository, revise your backup retention policy, or consider using another repository.
 
+Page updated 2026-08-03
 

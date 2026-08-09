@@ -3,8 +3,8 @@ title: "Internal Alarms"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/internal_alarms_events.html"
-last_updated: "12/11/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Internal Alarms
@@ -15,8 +15,8 @@ The following table describes internal Veeam ONE alarms.
 Internal Alarms
 
 | Alarm Name | Event/Condition | Severity | Description |
-| Audit log failure | Based on event | Error | Veeam ONE failed to add a new record to the audit log. |
-| Based on event | Resolve |
+| Audit log failure | Based on event VeeamAuditLogFailureEvent. | Error | Veeam ONE failed to add a new record to the audit log. |
+| Based on event VeeamAuditLogFailureResolvedEvent. | Resolve |
 | Audit log free space | Amount of free space is below 25%. | Warning | Size of the audit log is reaching the maximum allocated space limit. |
 | Amount of free space is below 5%. | Error |
 | Backup performance data collection failure | Based on event VeeamBpPerfCollectionFailedEvent. | Error | Veeam ONE failed to collect performance data from the specified backup server. |
@@ -76,6 +76,10 @@ Internal Alarms
 | Based on event VeeamOneAgentServerNoConnectionResolvedEvent. | Resolve |
 | Veeam ONE agent client connection failure | Based on event VeeamOneAgentClientNoConnectionEvent. | Error | Veeam ONE server failed to connect to Veeam ONE agent client. |
 | Based on event VeeamOneAgentClientNoConnectionResolvedEvent. | Resolve |
+| Veeam ONE Caching service state | Veeam ONE caching service failed. | Error | Veeam ONE Caching service not started or is not working properly. |
+| Veeam ONE Caching service database state | Based on event VeeamCachingServiceDatabaseIsDownEvent | Error | Veeam ONE Caching service database not started or is not working properly. |
+| Based on event VeeamCachingServiceDatabaseIsDownResolvedEvent | Resolve | Veeam ONE Caching service database error resolved. |
+| Based on event VeeamMonitorServiceStartedEvent | Resolve | Veeam ONE Monitor service database service started. |
 | Veeam ONE database cleanup task status | Database object removal queue constantly grew for defined time period (default 1 day). | Error | Veeam ONE server processing speed is slower than the deletion of object information. |
 | Veeam ONE email notification delivery failure | Based on event VeeamEmailNotificationFailed. | Error | Veeam ONE server failed to deliver an email notification. |
 | Based on event VeeamEmailNotificationResolved. | Resolve |
@@ -119,4 +123,5 @@ Internal Alarms
 | Based on event VeeamSyslogServerFailureResolvedEvent | Resolve |
 | Based on event VeeamMonitorServicesStartedEvent | Resolve |
 
+Page updated 2026-07-30
 

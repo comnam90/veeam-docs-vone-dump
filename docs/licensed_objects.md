@@ -3,8 +3,8 @@ title: "Licensed Objects"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/licensed_objects.html"
-last_updated: "11/3/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Licensed Objects
@@ -52,13 +52,14 @@ Rental licenses intended for Veeam Cloud & Service Providers (VCSP) use points a
 
 New Objects
 
-To provide more flexibility and introduce a trial period for object management, Veeam ONE offers the concept of New objects for Rental licenses. New objects are objects that were discovered within the current calendar month. New objects are tracked separately. The Used points license counter reflects the number of points required for the new objects, that is the number of new objects multiplied by the object coefficient.
+To provide more flexibility and introduce a trial period for object management, Veeam ONE offers the concept of New objects for Rental licenses. New objects are objects that were discovered within the current calendar month. New objects are tracked separately. The Used points license counter reflects the number of points required for the new objects, that is the number of new objects multiplied by the object coefficient.
 
-New objects do not consume the license points until the beginning of the new month. On the first day of the new month, the number of new objects is added to the number of managed objects and the New points counter in the license resets. New objects are not included in a license usage report.
+New objects do not consume the license points until the beginning of the new month. On the first day of the new month, the number of new objects is added to the number of managed objects and the New points counter in the license resets. New objects are not included in a license usage report.
 
 |  |
 | --- |
 | Note: |
 | The New objects counter in Veeam ONE does not include:   * File shares protected by Veeam Backup & Replication * Nutanix VMs, Microsoft Azure VMs and AWS EC2 instances that are not included in the New objects counter on the monitored Veeam Backup & Replication server |
 
+Page updated 2026-07-15
 
