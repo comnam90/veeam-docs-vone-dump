@@ -3,8 +3,8 @@ title: "Inventory"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/inventory.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Inventory
@@ -24,4 +24,5 @@ Use Case
 
 This report allows you to document the current configuration of your virtual infrastructure for audit purposes.
 
+Page updated 2026-08-07
 
