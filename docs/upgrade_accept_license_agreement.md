@@ -3,8 +3,8 @@ title: "Step 3. Accept License Agreements"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/upgrade_accept_license_agreement.html"
-last_updated: "9/2/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Step 3. Accept License Agreements
@@ -16,4 +16,5 @@ To read the terms of the license agreements, click the individual links.
 
 [![Accept License Agreement](images/typical_install_license.webp)](images/typical_install_license.webp "Accept License Agreement")
 
+Page updated 2026-07-07
 
