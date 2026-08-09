@@ -3,8 +3,8 @@ title: "Guest Disk Free Space (Hyper-V)"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/guest_free_space_hyperv.html"
-last_updated: "9/2/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Guest Disk Free Space (Hyper-V)
@@ -45,8 +45,15 @@ Business View groups from the same category are joined using Boolean OR operator
 * Sort by: defines how data will be sorted in the report (Virtual Machines, Relative Growth, Absolute Growth).
 * Ignore excluded disks: defines whether guest disks excluded in Veeam One Monitor to analyze in the report.
 
-You can exclude certain VM guest disks from monitoring in Veeam ONE Client. To learn more, see [Virtual Machine Summary](hyperv_summary.md).
+You can exclude certain VM guest disks from monitoring in Veeam ONE Client. To learn more, see [Microsoft Hyper-V Infrastructure Summary](hyperv_summary.md).
 
 [![Guest Disk Free Space Report](images/hyperv_guest_disk_free_space_01.webp)](images/hyperv_guest_disk_free_space_01.webp "Guest Disk Free Space Report")
+[![Guset Disk Free Space Report](images/hyperv_guest_disk_free_space_02.webp)](images/hyperv_guest_disk_free_space_02.webp "Guset Disk Free Space Report")
+[![Guest Disk Free Space report](images/hyperv_guest_disk_free_space_03.webp)](images/hyperv_guest_disk_free_space_03.webp "Guest Disk Free Space report")
 
+Use Case
+
+The report allows you to examine VM guest disk utilization and track disk usage growth. This helps you plan resource allocation and ensure your VMs have enough disk resources for stable operation.
+
+Page updated 2026-08-03
 
