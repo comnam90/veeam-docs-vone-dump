@@ -3,8 +3,8 @@ title: "Alarm Remediation Actions"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/remediation_actions.html"
-last_updated: "12/17/2024"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Alarm Remediation Actions
@@ -15,7 +15,7 @@ To automate virtual and backup infrastructure troubleshooting, you can configure
 |  |
 | --- |
 | ![Alarm Remediation Actions](images/icon_note.webp) Note: |
-| To run remediation actions for the backup infrastructure, you must have Veeam ONE agents installed on connected Veeam Backup & Replication servers. For details on installing and configuring Veeam ONE agents, see [Managing Veeam ONE Agents](manage_one_agents.md). |
+| To run remediation actions for the backup infrastructure, you must have Veeam ONE agents installed on connected Veeam Backup & Replication servers. For details on installing and configuring Veeam ONE agents, see [Managing Veeam Analytics Service](manage_one_agents.md). |
 
 Veeam ONE offers the following types of remediation for alarms:
 
@@ -36,4 +36,5 @@ Related Topics
 
 [Approving Alarm Remediation Actions](remediate_alarms.md)
 
+Page updated 2026-08-03
 
