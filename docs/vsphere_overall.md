@@ -3,8 +3,8 @@ title: "Overview"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/vsphere_overall.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Overview
@@ -18,4 +18,5 @@ To drill down to performance chart details, click the counter link above a perfo
 
 [![ Overall Chart](images/vmware_overall_chart.webp)](images/vmware_overall_chart.webp " Overall Chart")
 
+Page updated 2026-08-07
 
