@@ -3,8 +3,8 @@ title: "Operators"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/operators.html"
-last_updated: "7/8/2026"
-product_version: "13.0.2.6723"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Operators
@@ -28,4 +28,5 @@ Operators
 | and | Text (string) | Joins conditions with a logical AND operator. | For a VM, expression Memory = 2048 and Name = "vdi001" returns True if the amount of memory configured for a VM is equal to 2048 MB and the VM name is vdi001. |
 | or | Text (string) | Joins conditions with a logical OR operator. | For a VM, expression Memory = 2048 or Name = "vdi001" returns True if the amount of memory configured for a VM is equal to 2048 MB or the VM name is vdi001. |
 
+Page updated 2026-08-07
 
