@@ -3,8 +3,8 @@ title: "Step 12. Change Default Certificate"
 product: "vone"
 doc_type: "userguide"
 source_url: "https://helpcenter.veeam.com/docs/one/userguide/upgrade_change_certificate.html"
-last_updated: "9/18/2025"
-product_version: "13.0.1.6168"
+last_updated: "2026"
+product_version: "13.1.0.7034"
 ---
 
 # Step 12. Change Default Certificate
@@ -14,7 +14,7 @@ Veeam ONE uses TLS to ensure secure data communication between Veeam ONE Web Cli
 
 During upgrade, Veeam ONE generates a self-signed certificate that is used to secure traffic. You can replace this default certificate with your own self-signed certificate or a certificate that was obtained from a Certificate Authority. This step is optional, and is not required if you want to keep the default certificate generated during the upgrade procedure.
 
-For details on Veeam ONE certificates, see [Veeam ONE Certificates](certs_internal_ca.md).
+For details on Veeam ONE certificates, see [Using Certificate Signed by Internal CA](certs_internal_ca.md).
 
 |  |
 | --- |
@@ -35,4 +35,5 @@ To assign a new certificate to the Veeam ONE Web Client:
 
 [![Assign SSL Certificate](images/https_reporter.webp)](images/https_reporter.webp "Assign SSL Certificate")
 
+Page updated 2026-08-03
 
